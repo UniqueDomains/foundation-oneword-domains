@@ -69,7 +69,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 063c858c-005b-4b6c-9689-2305462b7f0e,insuchaway.foundation,available,5.99,,44,1,13,name.com,,
 065c5d7a-8da6-449f-8307-73c8b9a0ab78,sweatshop.foundation,available,5.99,,56,8,10,name.com,,
 066be096-7880-46da-b20f-7651732c2ad4,lunchware.foundation,available,5.99,,78,1,9,name.com,,
-0674f5ff-a06c-4440-a7d3-da2a746c76ec,find.foundation,resell,,,88,49,4,Porkbun LLC,01/06/2025 14:12,01/06/2026 14:12
 069ce056-2386-4747-9627-efa71fbc28ae,slipby.foundation,available,5.99,,64,1,7,name.com,,
 06b1c136-910f-46e2-ba34-d44f8c9c32b9,sheepdog.foundation,available,5.99,,76,9,9,name.com,,
 06d6dab2-5a16-462d-babd-5192e47cda09,letrip.foundation,available,5.99,,75,2,7,name.com,,
@@ -384,6 +383,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26458895-d36b-444c-9912-a5efc1a7ac44,getround.foundation,available,5.99,,74,0,9,name.com,,
 26486a28-fa06-4eec-a4c6-662a666fe2f3,divinejustice.foundation,available,5.99,,49,2,14,name.com,,
 265fe9ed-2001-402a-ab1f-0dd3fb50ea7e,gostraight.foundation,available,5.99,,70,2,11,name.com,,
+2665965a-acda-4d56-964d-8bc323b4dbbd,broccoli.foundation,premium,,,68,22,8,,,
 267c6cc4-cd83-40f1-870e-426e14bd0c11,makethefinalcut.foundation,available,5.99,,50,1,18,name.com,,
 2683e8be-9110-47ff-9dfd-e9d2266d1a86,advantageground.foundation,available,5.99,,48,0,16,name.com,,
 268e3fc1-ade8-4fe6-ba8f-b697bcfea5b2,textmessaging.foundation,available,5.99,,66,2,14,name.com,,

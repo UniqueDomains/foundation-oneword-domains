@@ -1,10 +1,10 @@
-# Available .FOUNDATION One-Word Domains (11,394)
+# Available .FOUNDATION One-Word Domains (11,401)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C394%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C401%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .foundation one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,394 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,401 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,394 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,401 domains · **Median ask:** $11.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/foundation`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | core.foundation      | resell    | —         | —             | 68             | 50     | 4      | Sav.com, LLC - 3 |
 | Tools.foundation     | premium   | $138.60   | $138.60       | 56             | 40     | 5      | namecheap        |
 | events.foundation    | available | $5.99     | —             | 68             | 37     | 6      | name.com         |
-| find.foundation      | resell    | —         | —             | 88             | 49     | 4      | Porkbun LLC      |
+| tokens.foundation    | resell    | —         | —             | 51             | 36     | 6      | Sav.com, LLC     |
 | solutions.foundation | premium   | $123.75   | —             | 56             | 31     | 9      | name.com         |
 | stories.foundation   | available | $5.99     | —             | 58             | 36     | 7      | name.com         |
-| tokens.foundation    | resell    | —         | —             | 51             | 36     | 6      | Sav.com, LLC     |
+| origins.foundation   | resell    | —         | —             | 46             | 22     | 7      | Porkbun LLC      |
 | flights.foundation   | premium   | $118.80   | $118.80       | 61             | 22     | 7      | namesilo         |
 | slots.foundation     | available | $5.99     | —             | 49             | 31     | 5      | name.com         |
-| origins.foundation   | resell    | —         | —             | 46             | 22     | 7      | Porkbun LLC      |
 | webs.foundation      | premium   | $118.80   | $118.80       | 56             | 21     | 4      | namesilo         |
 | hashtag.foundation   | available | $5.99     | —             | 82             | 30     | 7      | name.com         |
 | watches.foundation   | premium   | $123.75   | —             | 84             | 19     | 7      | name.com         |
 | quotes.foundation    | available | $5.99     | —             | 58             | 29     | 6      | name.com         |
 | rocks.foundation     | premium   | $123.75   | —             | 78             | 18     | 5      | name.com         |
 | bees.foundation      | available | $5.99     | —             | 54             | 27     | 4      | name.com         |
+| disorders.foundation | premium   | $38.94    | $38.94        | 46             | 5      | 9      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,394 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,401 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .foundation domains. The names range from highly literal terms such as health.foundation and armenian.foundation to more flexible words such as wide.foundation, utmost.foundation, and confetti.foundation. For founders, the key question is whether the word creates instant trust and fits a mission-led identity. For investors, the key question is whether the term is specific enough to have buyer relevance without being so narrow that demand stays thin. When comparing these domains, focus on semantic clarity, memorability, and whether the word naturally belongs with the .foundation extension.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .foundation extension
+- Each domain is a single-word term, not a multi-word phrase
+- Median ask across this set is 11.06
+- Best fits are trust-led, cause-led, or institutional use cases
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOUNDATION One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOUNDATION One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
