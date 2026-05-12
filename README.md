@@ -76,9 +76,9 @@ print(df.head())
 | stories.foundation   | available | $5.99     | —             | 58             | 36     | 7      | name.com         |
 | origins.foundation   | resell    | —         | —             | 46             | 22     | 7      | Porkbun LLC      |
 | flights.foundation   | premium   | $118.80   | $118.80       | 61             | 22     | 7      | namesilo         |
-| slots.foundation     | available | $5.99     | —             | 49             | 31     | 5      | name.com         |
+| hashtag.foundation   | available | $5.99     | —             | 82             | 32     | 7      | name.com         |
 | webs.foundation      | premium   | $118.80   | $118.80       | 56             | 21     | 4      | namesilo         |
-| hashtag.foundation   | available | $5.99     | —             | 82             | 30     | 7      | name.com         |
+| slots.foundation     | available | $5.99     | —             | 49             | 31     | 5      | name.com         |
 | watches.foundation   | premium   | $123.75   | —             | 84             | 19     | 7      | name.com         |
 | quotes.foundation    | available | $5.99     | —             | 58             | 29     | 6      | name.com         |
 | rocks.foundation     | premium   | $123.75   | —             | 78             | 18     | 5      | name.com         |
