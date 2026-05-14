@@ -266,6 +266,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1aee7673-d5fc-46aa-b9ca-4be284048c58,inprivate.foundation,available,5.99,,70,3,10,name.com,,
 1af66357-03ff-4b24-ae49-693456a53467,bees.foundation,available,5.99,,54,27,4,name.com,,
 1b09e0e5-48a7-404d-83ac-afd929e79bed,sideburns.foundation,available,5.99,,76,3,9,name.com,,
+1b2435f1-a94d-48b3-82f6-b334a8da12be,update.foundation,available,5.99,,88,28,7,name.com,,
 1b27ad74-06c3-4503-885d-757fabc46bd8,takes.foundation,available,5.99,,55,10,5,name.com,,
 1b2b838c-2326-43af-8391-2df515366cd8,bosses.foundation,available,5.99,,54,8,6,name.com,,
 1b2c725a-b1b4-48b2-9297-d89d13ceb38e,promised.foundation,available,5.99,,76,6,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5be67ed9-5a57-417a-b6b8-766ec3d83979,suppresses.foundation,available,5.99,,44,1,10,name.com,,
 5bf341fd-d318-45d7-b439-ae76a800782b,goround.foundation,available,5.99,,68,3,8,name.com,,
 5bf366c0-5d17-470b-8bf1-6c931517df31,paintthinner.foundation,available,5.99,,56,1,13,name.com,,
-5bf43431-a085-45d9-b410-43ab20f7523e,Germanpotatosalad.foundation,available,5.99,,56,1,19,name.com,,

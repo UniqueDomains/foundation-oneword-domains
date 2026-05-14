@@ -82,7 +82,7 @@ print(df.head())
 | watches.foundation   | premium   | $123.75   | —             | 84             | 19     | 7      | name.com         |
 | quotes.foundation    | available | $5.99     | —             | 58             | 29     | 6      | name.com         |
 | rocks.foundation     | premium   | $123.75   | —             | 78             | 18     | 5      | name.com         |
-| bees.foundation      | available | $5.99     | —             | 54             | 27     | 4      | name.com         |
+| update.foundation    | available | $5.99     | —             | 88             | 28     | 7      | name.com         |
 | disorders.foundation | premium   | $38.94    | $38.94        | 46             | 5      | 9      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
