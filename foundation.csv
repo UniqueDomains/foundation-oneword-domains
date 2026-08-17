@@ -578,6 +578,7 @@ a4664888-63e7-4584-b74f-93f2b707cc04,expect.foundation,available,5.99,,high,low,
 9992f61f-4920-46f0-aa08-3ac1a400e7a4,keepgoing.foundation,available,5.99,,high,low,10,name.com,,
 df78350d-2c4f-4f9a-9c0c-c6184f80b731,sperm.foundation,available,5.99,,high,low,5,name.com,,
 d8da8f24-0c21-4606-a98d-4e8c1eca5e30,hospital.foundation,premium,118.8,118.8,medium,low,8,namesilo,,
+e421abc1-ad26-468b-b2ea-c90ec59bbe93,complete.foundation,resell,,,medium,low,8,"Spaceship, Inc.",26/06/2026 17:01,26/06/2027 17:01
 8d98bdef-f532-473e-b9cf-610752c7cf51,boom.foundation,resell,,,high,medium,4,Dynadot Inc,11/02/2026 17:00,11/02/2027 17:00
 d815565c-3abb-40cd-bdaa-fcef670bb700,aliehasnolegs.foundation,available,5.99,,medium,low,17,name.com,,
 6eb59f54-36c4-4420-8a19-9cd2418ac111,needle.foundation,available,5.99,,medium,low,6,name.com,,
@@ -720,7 +721,7 @@ c4b0ce5f-5d24-4a76-8d29-3e2958755719,welfarecheck.foundation,available,5.99,,med
 97597d03-0169-40d4-a18f-2744907df63a,performs.foundation,available,5.99,,low,low,8,name.com,,
 508b3ee5-1657-4737-9816-5153da6023df,jamesdean.foundation,available,5.99,,high,low,10,name.com,,
 588c63d9-4514-4534-9c73-90e870f20630,anall.foundation,available,5.99,,medium,low,6,name.com,,
-dfe9b622-1b71-4c0a-a33d-7da24f6eb34f,eater.foundation,available,5.99,,high,low,5,name.com,,
+dfe9b622-1b71-4c0a-a33d-7da24f6eb34f,eater.foundation,available,5.99,40.99,low,low,5,name.com,,
 950c9b1a-cbb4-4d36-a8de-c44f609b7c2c,triple.foundation,available,5.99,,high,low,6,name.com,,
 4c031b62-f85e-4ef9-adb6-551e72ab6caa,bacterial.foundation,available,5.99,,medium,low,9,name.com,,
 44db9d66-17bd-4d28-a9e9-184ea668b68e,mavin.foundation,available,5.99,40.99,low,low,5,name.com,,
@@ -998,4 +999,3 @@ e152b88b-bb6c-4575-a2ed-675ef414f47e,unquestionably.foundation,available,5.99,,m
 753c1010-2055-4cf1-a83b-12d0076a832a,megeneration.foundation,available,5.99,,medium,low,13,name.com,,
 06de6a00-fa4d-42b8-8862-5b15cabbefc6,inverted.foundation,available,5.99,40.99,low,low,8,name.com,,
 b8b3bab8-f82f-4713-bc40-c177d2f47e82,strawberry.foundation,resell,,,high,low,10,"Spaceship, Inc.",03/08/2025 18:18,03/08/2026 18:18
-2c118207-7321-4b8d-8749-10218fced8af,expended.foundation,available,5.99,,medium,low,8,name.com,,
