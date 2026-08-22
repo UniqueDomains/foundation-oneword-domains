@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .foundation one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,741 domains · **Median ask:** $8.98 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/foundation`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| okay.foundation   | available | $5.99     | $40.99        | high           | low    | 4      | name.com        |
-| sorry.foundation  | available | $5.99     | $40.99        | high           | low    | 5      | name.com        |
-| simple.foundation | resell    | —         | —             | high           | medium | 6      | Dynadot Inc     |
-| action.foundation | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc. |
-| period.foundation | available | $5.99     | —             | high           | low    | 6      | name.com        |
-| heavy.foundation  | available | $5.99     | —             | high           | low    | 5      | name.com        |
-| ground.foundation | available | —         | —             | high           | high   | 6      | —               |
-| clv.foundation    | available | $5.99     | $40.99        | low            | low    | 3      | name.com        |
-| big.foundation    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC     |
-| ben.foundation    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
-| CNN.foundation    | available | $5.99     | —             | high           | low    | 3      | name.com        |
-| job.foundation    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
-| bio.foundation    | premium   | $242      | $242          | high           | medium | 3      | namesilo        |
-| die.foundation    | available | $5.99     | —             | medium         | low    | 3      | name.com        |
-| lab.foundation    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| His.foundation    | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap       |
-| feb.foundation    | available | $5.99     | —             | high           | low    | 3      | name.com        |
-| boom.foundation   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
-| hot.foundation    | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
-| lot.foundation    | available | $5.99     | —             | medium         | low    | 3      | name.com        |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| clv.foundation  | available | $5.99     | $40.99        | low            | low    | 3      | name.com         |
+| big.foundation  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| ben.foundation  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| CNN.foundation  | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| job.foundation  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| bio.foundation  | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| die.foundation  | available | $5.99     | —             | medium         | low    | 3      | name.com         |
+| lab.foundation  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| His.foundation  | premium   | $46.20    | $46.20        | high           | low    | 3      | namecheap        |
+| feb.foundation  | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| boom.foundation | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| hot.foundation  | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| lot.foundation  | available | $5.99     | —             | medium         | low    | 3      | name.com         |
+| food.foundation | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| lol.foundation  | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| mao.foundation  | available | $5.99     | —             | medium         | low    | 3      | name.com         |
+| grow.foundation | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| sly.foundation  | premium   | $41.25    | $41.25        | medium         | low    | 3      | name.com         |
+| non.foundation  | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| weed.foundation | resell    | —         | —             | medium         | low    | 4      | IONOS SE         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOUNDATION One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOUNDATION One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
