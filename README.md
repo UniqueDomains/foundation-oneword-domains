@@ -1,10 +1,10 @@
-# Available .FOUNDATION One-Word Domains (31,298)
+# Available .FOUNDATION One-Word Domains (21,361)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C298%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C361%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .foundation one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,298 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,361 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,298 domains · **Median ask:** $10.22 · **High-demand under $2,500:** 7
+**Public extract:** 1,000 rows · **Live catalog:** 21,361 domains · **Median ask:** $11.95 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/foundation`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| power.foundation      | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                |
-| desk.foundation       | available | $7.48     | $37.98        | high           | low    | 4      | namecheap                  |
-| economy.foundation    | available | $7.48     | $37.98        | high           | low    | 7      | namecheap                  |
-| grocery.foundation    | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo                   |
-| cooking.foundation    | premium   | $242      | $242          | high           | low    | 7      | namesilo                   |
-| approval.foundation   | available | $7.48     | $37.98        | high           | low    | 8      | namecheap                  |
-| coordinate.foundation | available | $7.48     | $37.98        | high           | low    | 10     | namecheap                  |
-| employ.foundation     | available | $7.48     | $37.98        | high           | low    | 6      | namecheap                  |
-| rural.foundation      | available | $14.99    | $23.99        | high           | low    | 5      | namesilo                   |
-| clv.foundation        | available | $5.99     | $40.99        | high           | low    | 3      | name.com                   |
-| bus.foundation        | resell    | —         | —             | high           | low    | 3      | Squarespace Domains II LLC |
-| ben.foundation        | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                   |
-| cnn.foundation        | available | $5.99     | —             | high           | low    | 3      | name.com                   |
-| job.foundation        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.            |
-| bio.foundation        | premium   | $242      | $242          | high           | medium | 3      | namesilo                   |
-| die.foundation        | available | $5.99     | —             | high           | low    | 3      | name.com                   |
-| lab.foundation        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
-| bug.foundation        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                   |
-| dvd.foundation        | available | $5.99     | —             | high           | low    | 3      | name.com                   |
-| boom.foundation       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| clothing.foundation    | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo  |
+| integrate.foundation   | available | $7.48     | $37.98        | high           | low    | 9      | namecheap |
+| moving.foundation      | available | $14.99    | $23.99        | high           | low    | 6      | namesilo  |
+| backup.foundation      | available | $14.99    | $23.99        | high           | low    | 6      | namesilo  |
+| trio.foundation        | available | $7.48     | $37.98        | high           | low    | 4      | namecheap |
+| end.foundation         | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo  |
+| finals.foundation      | available | $14.99    | $23.99        | high           | low    | 6      | namesilo  |
+| shining.foundation     | available | $14.99    | $23.99        | high           | low    | 7      | namesilo  |
+| affluent.foundation    | available | $14.99    | $23.99        | high           | low    | 8      | namesilo  |
+| improvise.foundation   | available | $14.99    | $23.99        | high           | low    | 9      | namesilo  |
+| intimate.foundation    | available | $14.99    | $23.99        | high           | low    | 8      | namesilo  |
+| remove.foundation      | available | $14.99    | $23.99        | high           | low    | 6      | namesilo  |
+| display.foundation     | available | $14.99    | $23.99        | high           | low    | 7      | namesilo  |
+| fifteen.foundation     | available | $14.99    | $23.99        | high           | low    | 7      | namesilo  |
+| regions.foundation     | available | $14.99    | $23.99        | high           | medium | 7      | namesilo  |
+| grandparent.foundation | available | $7.48     | $37.98        | high           | low    | 11     | namecheap |
+| quiet.foundation       | available | $14.99    | $23.99        | high           | low    | 5      | namesilo  |
+| expert.foundation      | premium   | $242      | $242          | high           | low    | 6      | namesilo  |
+| musical.foundation     | available | $7.48     | $37.98        | high           | low    | 7      | namecheap |
+| amount.foundation      | available | $14.99    | $23.99        | high           | low    | 6      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,298 live domains                        |
+| 1,000-row public sample | 21,361 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 7 high-demand names under $2,500           |
+| Basic exported fields   | 10 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOUNDATION One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOUNDATION One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
