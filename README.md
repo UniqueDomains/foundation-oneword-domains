@@ -1,10 +1,10 @@
-# Available .FOUNDATION One-Word Domains (22,085)
+# Available .FOUNDATION One-Word Domains (22,553)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C085%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C553%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .foundation one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,085 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,553 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,085 domains · **Median ask:** $12.35 · **High-demand under $2,500:** 12
+**Public extract:** 1,000 rows · **Live catalog:** 22,553 domains · **Median ask:** $12.41 · **High-demand under $2,500:** 12
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/foundation`
@@ -67,23 +67,23 @@ print(df.head())
 | addictive.foundation  | available | $14.99    | $23.99        | high           | low    | 9      | namesilo         |
 | seafood.foundation    | available | $7.48     | $37.98        | high           | low    | 7      | namecheap        |
 | attack.foundation     | available | $14.99    | $23.99        | high           | low    | 6      | namesilo         |
-| cooking.foundation    | premium   | $242      | $242          | high           | low    | 7      | namesilo         |
+| cooking.foundation    | premium   | $207.20   | $207.20       | high           | low    | 7      | spaceship        |
 | punch.foundation      | available | $14.99    | $23.99        | high           | low    | 5      | namesilo         |
 | auspicious.foundation | available | $14.99    | $23.99        | high           | low    | 10     | namesilo         |
-| clothing.foundation   | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo         |
+| clothing.foundation   | premium   | $128.70   | $128.70       | high           | low    | 8      | namecheap        |
 | ana.foundation        | available | $5.99     | —             | high           | low    | 3      | name.com         |
 | bat.foundation        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
 | cpr.foundation        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
 | bag.foundation        | available | $5.99     | —             | high           | low    | 3      | name.com         |
 | jet.foundation        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
 | end.foundation        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| bed.foundation        | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| bea.foundation        | available | $6.41     | $22.39        | high           | low    | 3      | spaceship        |
 | rag.foundation        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
 | oar.foundation        | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| cxx.foundation        | available | $5.99     | $40.99        | high           | low    | 3      | name.com         |
+| bed.foundation        | available | $5.99     | —             | high           | low    | 3      | name.com         |
 | mega.foundation       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| cream.foundation      | premium   | $38.94    | $38.94        | high           | low    | 5      | namesilo         |
-| lax.foundation        | available | $5.99     | $40.99        | medium         | low    | 3      | name.com         |
+| cream.foundation      | premium   | $34.36    | $34.36        | high           | low    | 5      | spaceship        |
+| cxx.foundation        | available | $5.99     | $40.99        | high           | low    | 3      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,085 live domains                        |
+| 1,000-row public sample | 22,553 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 12 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
