@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+c9cb0117-3e70-4544-bdff-413d68faf267,eddy.foundation,available,11.99,23.01,high,low,4,dynadot,,,01/10/2026 01:49
 8f1dfbce-b52f-49a1-a588-8598189ac878,allusion.foundation,available,5.99,40.99,high,low,8,name.com,,,18/09/2026 12:15
 7a6eda62-2f59-4e7b-9d06-a25dfc485445,fallout.foundation,available,6.41,22.39,medium,low,7,spaceship,,,28/09/2026 19:11
 3677036b-6d59-43f6-8db6-870f389161d9,clemson.foundation,available,7.48,37.98,high,low,7,namecheap,,,27/09/2026 07:07
@@ -10,23 +11,29 @@ ca5f59c0-92cb-4cec-94ee-907e59a7a9ca,translunar.foundation,available,7.48,37.98,
 8a1a1d5a-ec07-45a5-a54e-b2ffdb065b0d,delighted.foundation,available,5.99,40.99,high,low,9,name.com,,,09/08/2026 10:01
 75642f78-a15c-45fa-af2b-75c57a306b04,archean.foundation,available,5.99,40.99,medium,low,7,name.com,,,06/08/2026 15:05
 29844a78-bc1b-4b3f-8d96-04e88b7de7e2,deepest.foundation,available,5.99,,medium,low,7,name.com,,,
+0ec699b0-b0d4-44f2-a397-6cf982dbc671,risking.foundation,available,7.48,37.98,medium,low,7,namecheap,,,30/09/2026 04:11
 2cf29fed-2fd5-46e5-8ba2-f078988d23d3,egotistic.foundation,available,5.99,40.99,medium,low,9,name.com,,,12/08/2026 19:55
 6aca7e61-5ea1-4542-a113-9b144234f3eb,bribery.foundation,available,6.41,22.39,medium,low,7,spaceship,,,29/09/2026 11:46
 17c7ece7-1ad9-486d-b5a1-e91a173b52c1,tug.foundation,available,14.99,23.99,high,low,3,namesilo,,,30/09/2026 01:50
 89ba09ae-5b9d-45fb-996b-e1e0cff3fa43,frederic.foundation,available,14.99,23.99,high,low,8,namesilo,,,25/09/2026 15:15
 81ab9826-7c84-4f23-8d22-2863afd68489,sticking.foundation,available,14.99,23.99,high,low,8,namesilo,,,27/09/2026 06:41
 801aefdd-5c50-4256-a6f6-7204fcaf2416,apartheid.foundation,available,7.48,37.98,medium,low,9,namecheap,,,19/09/2026 16:15
+27e0c489-c3c5-4bf4-9f0d-74dc10b9a5c8,namur.foundation,available,6.41,22.39,medium,low,5,spaceship,,,30/09/2026 18:07
 e599a602-183f-4e3a-bc41-a8d7e60be9cc,habits.foundation,available,5.99,22.66,medium,low,6,porkbun,,,28/09/2026 04:46
+e288f064-7fc9-44a1-8c34-6e0b5924b87c,madera.foundation,available,11.99,23.01,medium,low,6,dynadot,,,30/09/2026 12:25
 6ec20a9a-9546-4e60-b6b6-9f509f4f58ea,marche.foundation,available,14.99,23.99,high,low,6,namesilo,,,29/09/2026 13:23
-db744a07-9825-4bff-aeb1-27df677a404e,lugosi.foundation,available,14.99,23.99,high,low,6,namesilo,,,23/09/2026 04:23
+db744a07-9825-4bff-aeb1-27df677a404e,lugosi.foundation,available,14.99,23.99,medium,low,6,namesilo,,,23/09/2026 04:23
 a71814c1-eef0-4916-bcb1-125bb35f5e2a,examples.foundation,available,6.41,22.39,medium,low,8,spaceship,,,29/09/2026 11:13
 36168925-d7b0-413b-ada6-cd6880ff759a,adroit.foundation,available,7.48,37.98,high,low,6,namecheap,,,21/09/2026 19:49
+b12a7dd2-3654-474e-87a1-d1cf0273a24a,siegfried.foundation,available,21.7,21.7,medium,low,9,cloudflare,,,30/09/2026 02:51
 de2c4b2a-4102-4904-b652-f73b8d6e65cd,unpleasant.foundation,available,7.48,37.98,medium,low,10,namecheap,,,12/09/2026 16:58
 49bb5f26-b161-4ef9-9524-a3c2867bdf9d,associates.foundation,premium,102.67,102.67,medium,low,10,spaceship,,,28/09/2026 08:50
 637cf5c9-8afc-45ca-8452-5cd188b8c9f4,individuals.foundation,available,6.41,22.39,medium,low,11,spaceship,,,28/09/2026 12:49
+8aed8653-21f8-4130-9131-ed15760733b3,condoms.foundation,available,6.41,22.39,medium,low,7,spaceship,,,30/09/2026 07:27
 7220e8cb-70be-4e3f-b31a-e6414964c5bf,timeless.foundation,resell,,,high,low,8,Porkbun LLC,04/05/2026 15:51,04/05/2027 15:51,26/09/2026 09:38
 6d0f92c6-27ba-4860-9a81-19e6e26f9b26,icky.foundation,available,5.99,40.99,medium,low,4,name.com,,,13/08/2026 05:07
 45987e35-df90-4b59-afd6-3dd00706654b,pyrrhic.foundation,available,7.48,37.98,medium,low,7,namecheap,,,09/09/2026 07:12
+14c73d6f-c69a-4500-ba72-30c0c7415b5c,disrespectful.foundation,available,6.41,22.39,medium,low,13,spaceship,,,30/09/2026 19:29
 ede17cbf-96a8-45f9-89fe-a18c04b106e9,geographical.foundation,available,21.7,21.7,high,low,12,cloudflare,,,29/09/2026 21:14
 87c750b3-7e2f-4639-bded-1652bb057437,zimmer.foundation,available,7.48,37.98,high,low,6,namecheap,,,29/09/2026 02:39
 144b97fa-4725-4538-90f8-cf4898b1ecc8,horatio.foundation,available,14.99,23.99,high,low,7,namesilo,,,28/09/2026 00:17
@@ -41,6 +48,7 @@ a552e06c-a24c-4009-9a78-ae1d2efdfe8a,bunk.foundation,available,7.48,37.98,medium
 884ba6ed-3b10-4c35-ab05-ffcf7d8d0552,berm.foundation,available,14.99,23.99,medium,low,4,namesilo,,,23/09/2026 09:41
 7c4a8a19-576d-44e3-8381-f46a5f19829c,barnburner.foundation,available,14.99,23.99,medium,low,10,namesilo,,,22/09/2026 06:49
 687bd747-c7a1-4b27-8a80-ebf82424e41c,smoked.foundation,available,7.48,37.98,medium,low,6,namecheap,,,10/09/2026 11:53
+0a186c28-1aa6-4367-9857-e8cc05acff19,lipscomb.foundation,available,6.41,22.39,medium,low,8,spaceship,,,30/09/2026 17:55
 3103e048-ab8d-4a48-a361-0e866dd68999,addictive.foundation,available,14.99,23.99,high,low,9,namesilo,,,21/09/2026 17:08
 79e274d6-fd5e-47dd-9db5-ccbc878bb1bd,lightless.foundation,available,5.99,40.99,medium,low,9,name.com,,,23/08/2026 04:36
 975b2503-2fd4-422d-9ebe-41c8f38097aa,seepage.foundation,available,7.48,37.98,medium,low,7,namecheap,,,04/09/2026 15:38
@@ -49,7 +57,7 @@ a6e34b7a-28c9-4276-9f12-ab5860d15b33,impeding.foundation,available,5.99,40.99,me
 b04252cd-3ee4-476f-9617-849761f48034,subaltern.foundation,available,5.99,40.99,medium,low,9,name.com,,,22/08/2026 14:29
 040dac4d-0f35-4749-81af-4bb01a6d4d25,unhelpful.foundation,available,7.48,37.98,medium,low,9,namecheap,,,12/09/2026 12:26
 5c72ecdd-183e-4e5a-af57-4b40602eed74,natty.foundation,available,5.99,40.99,medium,low,5,name.com,,,13/08/2026 17:29
-8e740664-8bfa-4c07-8de0-845fa66a083f,antilles.foundation,available,14.99,23.99,high,low,8,namesilo,,,19/09/2026 14:37
+8e740664-8bfa-4c07-8de0-845fa66a083f,antilles.foundation,available,14.99,23.99,medium,low,8,namesilo,,,19/09/2026 14:37
 39c72f6a-07d8-4dd4-b285-eaf57cc27b93,addict.foundation,available,14.99,23.99,high,low,6,namesilo,,,17/09/2026 06:48
 abadf8da-8060-4e41-b973-cb562bb2b62a,affiliation.foundation,available,5.99,,high,low,11,name.com,,,
 d49ecef1-4d34-4067-acaf-36bbfcb4ab1e,aimless.foundation,available,5.99,40.99,medium,low,7,name.com,,,
@@ -61,7 +69,8 @@ c19f87a5-fa72-4852-99c8-e8e7e100c49b,evasive.foundation,available,5.99,40.99,med
 496ed5ef-0203-48f0-a86e-8013f083a05e,jury.foundation,available,14.99,23.99,high,low,4,namesilo,,,25/09/2026 08:06
 1516f68b-a1f7-476d-9add-4eabb62f6a84,sweetie.foundation,available,7.48,37.98,high,low,7,namecheap,,,10/09/2026 19:34
 0f8a9c24-53f4-4a5b-968b-7f84a5c4cb12,bedevil.foundation,available,5.99,40.99,medium,low,7,name.com,,,14/08/2026 21:15
-cbb20e18-ab10-435b-a3ef-959c23cc3755,twine.foundation,available,21.7,21.7,high,low,5,cloudflare,,,30/09/2026 01:53
+cbb20e18-ab10-435b-a3ef-959c23cc3755,twine.foundation,available,21.7,21.7,medium,low,5,cloudflare,,,30/09/2026 01:53
+94ef0b1b-b858-4192-8a5b-e861bff2a31e,medicines.foundation,available,6.41,22.39,medium,low,9,spaceship,,,30/09/2026 06:22
 ef89f06f-00b5-401d-af1a-f612a0bbd934,bassia.foundation,available,7.48,37.98,medium,low,6,namecheap,,,22/09/2026 12:17
 70250406-845a-4fec-8d4f-2f7d12d2df5c,buyers.foundation,available,14.99,23.99,medium,low,6,namesilo,,,29/09/2026 05:47
 3f1545f7-f07e-4899-b8a2-77dbeaeb1b93,manpower.foundation,available,14.99,23.99,high,low,8,namesilo,,,28/09/2026 14:49
@@ -79,13 +88,16 @@ ccebfd9e-aa7c-459f-bb40-0d55102ebf8d,violent.foundation,available,7.48,37.98,hig
 f97ea367-9bc3-41c3-8e75-621fd714d258,variables.foundation,available,5.99,,medium,low,9,name.com,,,
 719bc58b-b554-4d84-838a-68762aa23d64,lopez.foundation,premium,38.94,38.94,high,low,5,namesilo,,,25/09/2026 12:44
 e537c243-162c-4a64-afcb-cfa0e36b97da,punt.foundation,available,5.99,40.99,high,low,4,name.com,,,18/08/2026 19:54
+5315fbf8-339b-4aa5-b226-4ddfc80c333f,contributor.foundation,available,6.41,22.39,high,low,11,spaceship,,,30/09/2026 19:30
 07ca1b22-07e6-4f13-8e3d-b1c5b16c5ee1,relevantly.foundation,available,7.48,37.98,medium,low,10,namecheap,,,15/09/2026 22:59
 ff8ae373-5be7-40d6-abae-e962635eefb6,strokes.foundation,available,14.99,23.99,medium,low,7,namesilo,,,29/09/2026 04:49
 70a43d10-43a7-4324-b859-21dc39481b60,carping.foundation,available,5.99,40.99,medium,low,7,name.com,,,18/08/2026 00:03
+654ed231-8a36-4c7f-b9e2-598113cce510,kari.foundation,available,21.7,21.7,medium,low,4,cloudflare,,,30/09/2026 13:17
 e45a870a-8fe0-4efa-a2d2-ae55b1d115ec,whitby.foundation,available,5.99,22.66,medium,low,6,porkbun,,,29/09/2026 23:34
 00997399-bf1a-496f-a903-4f7776a937fa,unvoiced.foundation,available,7.48,37.98,medium,low,8,namecheap,,,11/09/2026 03:39
 32fc18bb-0248-4eeb-b651-0fa1f8b2c3e2,almsgiving.foundation,available,7.48,37.98,high,low,10,namecheap,,,18/09/2026 12:43
 0e08c3e8-1634-4021-a715-6140adc23a3d,wanton.foundation,available,5.99,40.99,medium,low,6,name.com,,,25/08/2026 07:57
+bfa697bf-7805-439c-91cc-0769f5e79a98,coahuila.foundation,available,21.7,21.7,medium,low,8,cloudflare,,,30/09/2026 09:12
 c490e1db-379b-4eac-8ff8-a6fa70da30dc,governor.foundation,available,14.99,23.99,high,low,8,namesilo,,,27/09/2026 04:15
 d15c82db-a59c-42a9-a910-5352d2c2b0e1,stabilization.foundation,available,14.99,23.99,high,low,13,namesilo,,,17/09/2026 17:23
 6cda6688-8e9e-4a76-95cc-fa639bb4fac5,hydrous.foundation,available,5.99,40.99,medium,low,7,name.com,,,21/08/2026 16:14
@@ -94,26 +106,29 @@ ad976f4a-e270-433a-852b-e1d51ff8d1d4,rurally.foundation,available,7.48,37.98,med
 f46583d3-4a93-436d-abfe-957ab217f4a4,moscow.foundation,premium,118.8,118.8,high,low,6,namesilo,,,29/09/2026 07:06
 c50f8f43-e8a1-409a-a0fe-004f9e600d1a,stygian.foundation,available,5.99,40.99,medium,low,7,name.com,,,
 31e97a83-3f0d-429e-b032-82e9783592d1,columbus.foundation,available,14.99,23.99,high,low,8,namesilo,,,28/09/2026 05:23
-8a8e60d7-6a85-4419-8637-0f73844a4658,oxford.foundation,available,5.99,,high,low,6,name.com,,,
+8a8e60d7-6a85-4419-8637-0f73844a4658,oxford.foundation,available,21.7,21.7,high,low,6,cloudflare,,,30/09/2026 06:19
 d7e515f7-0965-4894-a82a-9619eb842109,plaguy.foundation,available,5.99,40.99,medium,low,6,name.com,,,
 31666843-53cd-47ba-991c-03518bf6bfab,fever.foundation,available,6.41,22.39,high,low,5,spaceship,,,29/09/2026 19:05
-db932e09-1713-4db1-a1d9-0b3935373d25,decide.foundation,available,5.99,,high,low,6,name.com,,,
-a0a047df-e319-43c2-ae15-07b47f045432,manchurian.foundation,available,5.99,40.99,high,low,10,name.com,,,24/08/2026 14:34
+db932e09-1713-4db1-a1d9-0b3935373d25,decide.foundation,available,11.99,23.01,high,low,6,dynadot,,,30/09/2026 09:55
+a0a047df-e319-43c2-ae15-07b47f045432,manchurian.foundation,available,5.99,40.99,medium,low,10,name.com,,,24/08/2026 14:34
 87095a50-14b8-4109-beaa-48e4e80376d9,beefsteak.foundation,available,14.99,23.99,high,low,9,namesilo,,,23/09/2026 01:15
 21f86a82-7ced-4815-8045-fef1b56258b0,horns.foundation,available,7.48,37.98,medium,low,5,namecheap,,,17/09/2026 08:11
-9a398643-1297-44bc-94af-92f22a5009d1,durer.foundation,available,14.99,23.99,high,low,5,namesilo,,,18/09/2026 03:18
+ba757a52-2c25-474b-b972-425c0dd33c74,inglewood.foundation,available,6.41,22.39,medium,low,9,spaceship,,,30/09/2026 13:40
+9a398643-1297-44bc-94af-92f22a5009d1,durer.foundation,available,14.99,23.99,medium,low,5,namesilo,,,18/09/2026 03:18
 f72ea6d1-8218-4cdd-95cf-d01e725c9b69,dwelling.foundation,available,6.41,22.39,high,low,8,spaceship,,,29/09/2026 17:19
 67e5aa15-5599-4703-9a72-04223cae8769,haploid.foundation,available,5.99,40.99,medium,low,7,name.com,,,20/08/2026 23:55
 db3adf5e-a941-4ac0-8a21-c06cde215047,anastrophe.foundation,available,14.99,23.99,medium,low,10,namesilo,,,19/09/2026 03:23
 ada13ec2-c75e-471f-a0d9-6e547628c6e6,quadrangle.foundation,available,7.48,37.98,high,low,10,namecheap,,,09/09/2026 07:22
 0fadbdf4-6242-4713-9c48-304a6f78d71e,surd.foundation,available,7.48,37.98,medium,low,4,namecheap,,,11/09/2026 03:41
 788f67c4-21d6-4222-a135-4662e235150b,arse.foundation,available,5.99,40.99,medium,low,4,name.com,,,09/08/2026 10:35
+e6f5b0a7-42a4-417f-8227-12cc86a67a3f,freshwater.foundation,available,21.7,21.7,high,low,10,cloudflare,,,30/09/2026 17:24
 bb95bf99-a731-4723-a5cf-c239e4aa723e,enterprises.foundation,premium,102.67,102.67,medium,low,11,spaceship,,,29/09/2026 11:23
 f4a3c1ce-397c-4499-a7cf-05a94eb18c92,delaware.foundation,premium,,,high,low,8,,,,29/09/2026 06:32
 cbd3829c-3ce6-453b-b4cf-032854a9c70e,bandana.foundation,available,14.99,23.99,high,low,7,namesilo,,,22/09/2026 00:59
 81147fde-1c44-4004-88dd-182e6597b585,praying.foundation,available,14.99,23.99,high,low,7,namesilo,,,27/09/2026 06:47
 dc68edee-57db-479a-aa5d-d03cbc06bc05,sanction.foundation,available,7.48,37.98,high,low,8,namecheap,,,03/09/2026 23:24
 f9c43c9b-322e-482e-ae90-ab65a0dfe62e,flickering.foundation,available,5.99,40.99,high,low,10,name.com,,,
+a59dc5b8-40b7-428c-bbf2-6ec79a786fe5,cbo.foundation,available,14.99,23.99,high,low,3,namesilo,,,30/09/2026 04:30
 979ad394-982c-4909-8a84-3761932cc049,distorted.foundation,available,5.99,40.99,medium,low,9,name.com,,,13/08/2026 23:39
 f1acebfc-0753-4dc7-a62f-e6be854cecd3,lashings.foundation,available,7.48,37.98,high,low,8,namecheap,,,14/09/2026 23:38
 9c59d36c-fd4b-4a13-8309-203e194a24a9,grows.foundation,available,7.48,37.98,medium,low,5,namecheap,,,27/09/2026 10:10
@@ -121,7 +136,7 @@ f1acebfc-0753-4dc7-a62f-e6be854cecd3,lashings.foundation,available,7.48,37.98,hi
 b43c595b-6387-481c-b4ff-a0f15edbfae8,evidenced.foundation,available,5.99,40.99,high,low,9,name.com,,,17/08/2026 15:00
 e42ee0b5-63f5-4ec7-909e-2e9b5b575548,leering.foundation,available,14.99,23.99,medium,low,7,namesilo,,,25/09/2026 05:58
 82b1dbdd-744c-482a-9508-2bfa29692881,downtime.foundation,available,14.99,23.99,high,low,8,namesilo,,,24/09/2026 23:41
-20a3dcd2-8511-44b5-8889-d69c2c9059c1,wagon.foundation,available,14.99,23.99,high,low,5,namesilo,,,29/09/2026 01:37
+20a3dcd2-8511-44b5-8889-d69c2c9059c1,wagon.foundation,available,14.99,23.99,medium,low,5,namesilo,,,29/09/2026 01:37
 0df3a7af-4926-4038-ac96-ebd1a0481902,aaron.foundation,available,14.99,23.99,high,medium,5,namesilo,,,28/09/2026 16:56
 e7c874cc-cc4f-4728-ab37-bf6d716362a0,stripping.foundation,available,14.99,23.99,medium,low,9,namesilo,,,22/09/2026 05:59
 f3f73f3f-3549-49d9-806f-d21ca254fce1,tomas.foundation,available,7.48,37.98,medium,low,5,namecheap,,,28/09/2026 04:37
@@ -136,11 +151,12 @@ b5a726f9-fc57-476d-b3f4-1d88d704754a,plunk.foundation,available,7.48,37.98,mediu
 b6bbf48c-63d5-46a9-9ba5-4d9feb127c17,rimless.foundation,available,7.48,37.98,medium,low,7,namecheap,,,09/09/2026 17:43
 022d4819-87cc-4419-9454-b75eef5248f1,broadwise.foundation,available,7.48,37.98,medium,low,9,namecheap,,,14/09/2026 01:26
 eeb7cbe8-7efb-40c8-9392-adfc11213342,congressional.foundation,available,6.41,22.39,medium,low,13,spaceship,,,29/09/2026 09:00
+44978671-95ab-4aeb-a35b-e26cbe20be85,insurer.foundation,available,14.99,23.99,high,low,7,namesilo,,,01/10/2026 02:41
 e30fd333-5543-4fb3-a4bd-c51176f12f44,agate.foundation,available,14.99,23.99,high,low,5,namesilo,,,17/09/2026 16:25
 8a6eea23-1b85-4f6f-8b2a-775b706df3ae,nicky.foundation,available,5.99,,high,low,5,name.com,,,
-5677ed26-c588-4fc3-a543-6cb8a72b1993,cobra.foundation,available,14.99,23.99,high,low,5,namesilo,,,28/09/2026 13:44
+5677ed26-c588-4fc3-a543-6cb8a72b1993,cobra.foundation,available,14.99,23.99,medium,low,5,namesilo,,,28/09/2026 13:44
 f3b8c2e1-1047-4c35-9702-7b2e55b54374,flooded.foundation,available,5.99,40.99,high,low,7,name.com,,,08/08/2026 00:23
-5e3b5742-0328-4497-967c-a6705c87f7bc,abies.foundation,available,14.99,23.99,high,low,5,namesilo,,,16/09/2026 15:38
+5e3b5742-0328-4497-967c-a6705c87f7bc,abies.foundation,available,14.99,23.99,medium,low,5,namesilo,,,16/09/2026 15:38
 c5fbf0de-e909-4e2e-962c-584a600b4337,sixfold.foundation,available,7.48,37.98,medium,low,7,namecheap,,,10/09/2026 05:21
 182a1c26-80e6-47e1-bdb3-07240fd99e81,diametric.foundation,available,5.99,40.99,medium,low,9,name.com,,,14/08/2026 05:56
 859ebb6d-9eb0-4bfd-b0cf-a6f795dd8146,francesca.foundation,available,5.99,,high,low,9,name.com,,,
@@ -150,8 +166,9 @@ c5fbf0de-e909-4e2e-962c-584a600b4337,sixfold.foundation,available,7.48,37.98,med
 9d07f584-5927-4072-9122-d0683f963ff1,incline.foundation,available,14.99,23.99,high,low,7,namesilo,,,29/09/2026 23:48
 d2b1408f-1ca3-4f5f-80b4-0f18c8cb63d1,fledgling.foundation,available,5.99,40.99,high,low,9,name.com,,,11/08/2026 14:45
 5031e800-a1e2-4142-97e4-ce4acf393ad6,obsessed.foundation,available,5.99,40.99,medium,low,8,name.com,,,21/08/2026 01:32
-33c3de8b-f7bc-4cc5-a4f0-5d2c6d17975d,scotty.foundation,available,6.41,22.39,high,low,6,spaceship,,,29/09/2026 22:06
+33c3de8b-f7bc-4cc5-a4f0-5d2c6d17975d,scotty.foundation,available,6.41,22.39,medium,low,6,spaceship,,,29/09/2026 22:06
 372ff2b9-610c-4b57-9cb3-245f743f0d18,anal.foundation,available,5.99,40.99,high,low,4,name.com,,,
+98b01506-07e3-4c08-9a42-ec9c344e19ef,huggins.foundation,available,6.41,22.39,medium,low,7,spaceship,,,30/09/2026 10:10
 c3d9aaef-66ae-453d-9500-b569b21c5680,luteal.foundation,available,5.99,40.99,medium,low,6,name.com,,,24/08/2026 12:07
 8a952154-9de8-475e-b36d-5e19f9c01a19,acanthurus.foundation,available,5.99,40.99,medium,low,10,name.com,,,16/09/2026 20:58
 7367d2ee-5714-405c-88a5-1716b99779ec,joshua.foundation,premium,78.54,78.54,high,low,6,namesilo,,,24/09/2026 06:58
@@ -168,12 +185,13 @@ cf101dc6-6a5c-4ebe-b256-40a3129802be,unmarried.foundation,available,7.48,37.98,m
 eec68802-032b-4e42-929b-4c1069d4b99c,chard.foundation,available,7.48,37.98,medium,low,5,namecheap,,,23/09/2026 10:59
 81f666fe-0c70-4a71-8da7-710c87e76963,roadblock.foundation,available,7.48,37.98,medium,low,9,namecheap,,,22/09/2026 08:30
 7da974c2-2a31-41a9-8f81-52d45366f74d,ashford.foundation,available,6.41,22.39,medium,low,7,spaceship,,,29/09/2026 04:30
-c8a4375a-fb48-4405-b6cd-b3a5c35f6c4c,poached.foundation,available,5.99,40.99,high,low,7,name.com,,,10/08/2026 17:34
+c8a4375a-fb48-4405-b6cd-b3a5c35f6c4c,poached.foundation,available,5.99,40.99,medium,low,7,name.com,,,10/08/2026 17:34
 fdec35b1-1fcf-429b-ac6f-0f6d2ae8798a,spartanburg.foundation,available,6.41,22.39,high,low,11,spaceship,,,29/09/2026 22:45
 578fcfb7-f0f0-496d-9678-c05a70bf5765,manifestly.foundation,available,7.48,37.98,medium,low,10,namecheap,,,08/09/2026 20:23
 c2767174-a92e-41c3-9562-73f462fd8e16,rhomboid.foundation,available,5.99,40.99,medium,low,8,name.com,,,09/09/2026 16:47
 c7f08210-2218-441d-a52a-cd83e1092c66,magnetized.foundation,available,5.99,40.99,medium,low,10,name.com,,,24/08/2026 13:04
 a90ea150-6fa2-4e30-8f8f-d8d88e2a3f2a,improver.foundation,available,5.99,40.99,high,low,8,name.com,,,21/08/2026 14:58
+8ab0a493-15f5-4279-ac55-735e8fe9c06e,cuffs.foundation,available,14.99,23.99,medium,low,5,namesilo,,,30/09/2026 14:55
 609ddb1d-73d1-45a2-865e-e511678a7899,biota.foundation,available,5.99,40.99,high,low,5,name.com,,,23/09/2026 19:05
 ff8f93ff-88fb-443d-9801-af168849163a,washed.foundation,available,7.48,37.98,high,low,6,namecheap,,,13/09/2026 08:31
 31e8d6ed-7dea-4e02-8b09-9f1ac3d17ac2,waited.foundation,available,14.99,23.99,medium,low,6,namesilo,,,18/09/2026 01:45
@@ -185,10 +203,11 @@ ff8f93ff-88fb-443d-9801-af168849163a,washed.foundation,available,7.48,37.98,high
 5d172028-5a41-4dcf-90d5-b9885ccd56fd,bluster.foundation,available,5.99,40.99,medium,low,7,name.com,,,11/08/2026 01:07
 f9ae60a4-a8a9-4ef6-812a-75402d12fce3,aeronautic.foundation,available,5.99,40.99,high,low,10,name.com,,,
 72bd29e3-6001-42be-b3fa-273155b4d125,visibly.foundation,available,14.99,23.99,medium,low,7,namesilo,,,16/09/2026 11:04
-bfd78c49-8543-4f16-a700-e65a2780b9b0,danbury.foundation,available,14.99,23.99,high,low,7,namesilo,,,29/09/2026 10:05
+bfd78c49-8543-4f16-a700-e65a2780b9b0,danbury.foundation,available,14.99,23.99,medium,low,7,namesilo,,,29/09/2026 10:05
 9c3d8083-6d7d-475a-ae9f-08c9e6508fa0,apparent.foundation,available,5.99,40.99,high,low,8,name.com,,,06/08/2026 05:08
-217e6c9c-2570-4cf0-b3e6-d10dc5435d7e,usn.foundation,available,14.99,23.99,high,low,3,namesilo,,,28/09/2026 15:31
+217e6c9c-2570-4cf0-b3e6-d10dc5435d7e,usn.foundation,available,14.99,23.99,medium,low,3,namesilo,,,28/09/2026 15:31
 40e1ec68-c5b9-494d-9253-ae20a715aeae,postcard.foundation,available,6.41,22.39,high,low,8,spaceship,,,29/09/2026 13:21
+976e0bf7-0a80-42b9-9fc3-f52b110f57c9,ponies.foundation,available,14.99,23.99,high,low,6,namesilo,,,30/09/2026 15:39
 a3100089-6f7e-47cf-b7be-1950fd60a98d,bed.foundation,available,14.99,23.99,high,low,3,namesilo,,,29/09/2026 01:46
 50dad1ed-a2de-4889-b0e1-320a7020c82e,sculpture.foundation,available,5.99,40.99,high,low,9,name.com,,,20/08/2026 18:45
 3025a911-6a3c-49d0-afeb-6e87aae71e62,utile.foundation,available,7.48,37.98,medium,low,5,namecheap,,,13/09/2026 00:01
@@ -198,10 +217,11 @@ b695e92d-ed60-40d1-9a50-b818beff237b,forbidding.foundation,available,5.99,40.99,
 6fc78983-d35f-48ef-8184-43720f1c4bce,scrubby.foundation,available,7.48,37.98,medium,low,7,namecheap,,,09/09/2026 23:39
 b6cae000-ee3d-4445-919e-0dfb59abd925,undisputed.foundation,available,7.48,37.98,high,low,10,namecheap,,,12/09/2026 05:02
 91d8a9f3-33b2-4b02-b35a-93b8bf02095b,blacktail.foundation,available,14.99,23.99,medium,low,9,namesilo,,,23/09/2026 23:51
-010c5daa-6c0e-421e-b5fb-bf0d5aa11c47,ding.foundation,available,14.99,23.99,high,low,4,namesilo,,,28/09/2026 14:30
+010c5daa-6c0e-421e-b5fb-bf0d5aa11c47,ding.foundation,available,14.99,23.99,medium,low,4,namesilo,,,28/09/2026 14:30
+b8b9bce5-043a-43d8-bf1a-34f667953436,patrons.foundation,available,21.7,21.7,high,low,7,cloudflare,,,30/09/2026 14:47
 0c05556c-d6f4-40fb-9821-652fd6df7717,tedious.foundation,available,14.99,23.99,medium,low,7,namesilo,,,23/09/2026 00:32
 22c5654f-1c7a-478a-a860-edca3c6a1239,cooking.foundation,premium,207.2,207.2,high,low,7,spaceship,,,28/09/2026 06:07
-237bb33b-2445-4499-a9b7-9354001cbb7c,fungus.foundation,available,21.7,21.7,high,low,6,cloudflare,,,28/09/2026 14:14
+237bb33b-2445-4499-a9b7-9354001cbb7c,fungus.foundation,available,21.7,21.7,medium,low,6,cloudflare,,,28/09/2026 14:14
 72bb807f-5d2b-42f3-8eb4-98a3253f7912,anecdotist.foundation,available,14.99,23.99,medium,low,10,namesilo,,,19/09/2026 05:08
 df3c2359-222d-4f01-ac3e-eb95c8288c2e,scotchtape.foundation,available,14.99,23.99,high,low,11,namesilo,,,16/09/2026 11:38
 d42130f1-f9c7-495b-80ba-496dc586926e,zamora.foundation,available,11.99,23.01,high,low,6,dynadot,,,29/09/2026 15:40
@@ -211,24 +231,26 @@ d42130f1-f9c7-495b-80ba-496dc586926e,zamora.foundation,available,11.99,23.01,hig
 2d1fefa2-6e4f-4b25-8895-33506271ac5c,fungous.foundation,available,5.99,40.99,low,low,7,name.com,,,18/08/2026 18:30
 9c5e026e-4fad-4385-aa1a-ce582070e2b6,lifelike.foundation,available,5.99,40.99,high,low,8,name.com,,,23/08/2026 01:41
 f04e0f62-e296-48c2-885e-4873c9dcd66e,naught.foundation,available,7.48,37.98,medium,low,6,namecheap,,,03/09/2026 22:40
-3924c712-5440-4028-82df-3f7eef0a8fda,legs.foundation,available,5.99,,high,low,4,name.com,,,
+3924c712-5440-4028-82df-3f7eef0a8fda,legs.foundation,available,6.41,22.39,high,low,4,spaceship,,,30/09/2026 02:47
 e9a786cd-219b-486b-a4f8-db0650424567,michigan.foundation,premium,78.54,78.54,high,low,8,namesilo,,,28/09/2026 05:53
 af8a349d-bb66-403c-bc46-f8f0dfd0c539,gidgee.foundation,available,7.48,37.98,medium,low,6,namecheap,,,16/09/2026 20:01
 c6df063d-fcf9-44c8-9f3b-5a89d2a5a7c6,semitic.foundation,available,7.48,37.98,medium,low,7,namecheap,,,10/09/2026 03:32
-7182d880-9352-4ec3-9872-97797d59ed93,weaponry.foundation,available,14.99,23.99,high,low,8,namesilo,,,20/09/2026 07:43
+7182d880-9352-4ec3-9872-97797d59ed93,weaponry.foundation,available,14.99,23.99,medium,low,8,namesilo,,,20/09/2026 07:43
 ead990e7-8aa2-4a23-a200-564a398a69e7,uneventful.foundation,available,7.48,37.98,medium,low,10,namecheap,,,12/09/2026 09:21
+6ff25d94-94ab-4e45-a2a2-43e760637613,ocd.foundation,premium,34.36,34.36,high,low,3,spaceship,,,30/09/2026 11:49
 29ed5bcf-ff2e-484d-8f0d-b0c2fe5d7db3,hilary.foundation,available,6.41,22.39,medium,low,6,spaceship,,,28/09/2026 21:53
 cc226471-025c-451c-9e6d-3c029a6e6b4c,adored.foundation,available,7.48,37.98,high,low,6,namecheap,,,21/09/2026 19:35
-0bca9909-53e7-4c61-a127-743ae02ec918,facile.foundation,available,5.99,40.99,high,low,6,name.com,,,16/08/2026 06:16
+0bca9909-53e7-4c61-a127-743ae02ec918,facile.foundation,available,5.99,40.99,medium,low,6,name.com,,,16/08/2026 06:16
 8aea49fc-9cce-4fa4-8e1f-85bad66b6301,glary.foundation,available,5.99,40.99,medium,low,5,name.com,,,10/08/2026 13:49
 0d91dd41-d457-463d-ae2b-497b4d699478,horseback.foundation,available,14.99,23.99,high,low,9,namesilo,,,21/09/2026 23:38
 e6612f8e-afd9-43dc-a840-d2ddef53e29f,spurting.foundation,available,5.99,40.99,medium,low,8,name.com,,,22/08/2026 13:13
 8281234c-bc50-4741-8b3c-51d61a91e0be,infancy.foundation,available,14.99,23.99,high,low,7,namesilo,,,21/09/2026 13:47
+3e9d2463-8b18-4022-a829-6dbb9c41866e,salaries.foundation,available,6.41,22.39,medium,low,8,spaceship,,,30/09/2026 07:09
 bd597e7e-fe0d-414b-bdbd-30eb2f74d34f,muckle.foundation,available,5.99,40.99,medium,low,6,name.com,,,25/08/2026 00:34
 96b0b454-92d0-410e-a194-51b44d80eead,obtainable.foundation,available,5.99,40.99,high,low,10,name.com,,,18/08/2026 23:06
-43f5ebba-03f0-4c7b-a0c3-ac51f8365618,jaded.foundation,available,5.99,40.99,high,low,5,name.com,,,22/08/2026 11:58
+43f5ebba-03f0-4c7b-a0c3-ac51f8365618,jaded.foundation,available,5.99,40.99,medium,low,5,name.com,,,22/08/2026 11:58
 19c155f3-b4b7-4cf1-897a-d88238ff0ea8,bareboat.foundation,available,14.99,23.99,medium,low,8,namesilo,,,22/09/2026 05:23
-73c844cf-8cf5-4a26-9a74-4fd29bcb2c6a,reader.foundation,available,5.99,,high,low,6,name.com,,,
+73c844cf-8cf5-4a26-9a74-4fd29bcb2c6a,reader.foundation,available,14.99,23.99,high,low,6,namesilo,,,30/09/2026 02:38
 9236bce7-6311-47aa-a51e-83955ff8f70d,thespian.foundation,available,7.48,37.98,high,low,8,namecheap,,,11/09/2026 13:05
 2e08317e-9a12-4cad-972b-3af8b16de4ee,written.foundation,available,14.99,23.99,high,low,7,namesilo,,,27/09/2026 18:44
 fb1ed326-433e-487c-b8fe-d57341a809b0,agreement.foundation,available,7.48,37.98,high,low,9,namecheap,,,28/09/2026 08:10
@@ -244,22 +266,23 @@ a1f0f6ba-3e50-49b1-8879-b9fffa818ce9,gallantly.foundation,available,7.48,37.98,m
 781f334c-1abc-47d8-ae74-0bc13cc89987,lexington.foundation,available,14.99,23.99,high,medium,9,namesilo,,,25/09/2026 08:56
 d217d629-a3a1-4b5f-9888-680a57a1d4d3,seafood.foundation,available,7.48,37.98,high,low,7,namecheap,,,08/09/2026 02:47
 23a4555b-ad61-47cf-b888-a4912220e9b6,assassination.foundation,available,21.7,21.7,medium,low,13,cloudflare,,,28/09/2026 11:16
-26d4eec2-001d-46be-be6b-7a5473be8108,seats.foundation,available,5.99,,high,low,5,name.com,,,
+26d4eec2-001d-46be-be6b-7a5473be8108,seats.foundation,available,14.99,23.99,high,low,5,namesilo,,,30/09/2026 10:51
 e064338a-3e6d-469f-9305-9ecea6a4427a,unbiased.foundation,available,7.48,37.98,high,low,8,namecheap,,,12/09/2026 01:52
 5f1d81fc-d7fc-48b3-b554-9dcdbe7fa9a7,goofproof.foundation,available,5.99,40.99,medium,low,9,name.com,,,18/08/2026 10:41
-8028e05b-8e6e-4dbc-b368-e46a223a642e,among.foundation,available,5.99,,high,low,5,name.com,,,
+8028e05b-8e6e-4dbc-b368-e46a223a642e,among.foundation,available,21.7,21.7,high,low,5,cloudflare,,,30/09/2026 22:57
 215ae824-1b14-4969-9942-ea45eb2fb888,coleridge.foundation,available,14.99,23.99,medium,low,9,namesilo,,,28/09/2026 09:24
 f48b5118-09a3-46e4-b64d-60a7ad5d2466,synovial.foundation,available,7.48,37.98,medium,low,8,namecheap,,,11/09/2026 06:37
 fefb673a-784e-46f9-93f4-f709b17679aa,showtime.foundation,available,6.41,22.39,high,medium,8,spaceship,,,29/09/2026 18:25
 7e140bba-2b18-424f-93d4-6026ab499738,secrecy.foundation,available,7.48,37.98,high,low,7,namecheap,,,24/09/2026 17:03
 dbd92520-15eb-434e-90ad-9ff1ba61b402,veiled.foundation,available,7.48,37.98,medium,low,6,namecheap,,,13/09/2026 01:50
+c54347f8-eb83-4885-b977-ff62d87dbf8b,moths.foundation,available,14.99,23.99,medium,low,5,namesilo,,,30/09/2026 06:56
 09c189f8-06f1-4c21-890d-1cb57903e143,puddle.foundation,available,7.48,37.98,high,low,6,namecheap,,,13/09/2026 09:43
 d4b3e05f-7241-4f7d-9b5e-9eb517602085,cracker.foundation,available,7.48,37.98,high,low,7,namecheap,,,24/09/2026 18:59
 e3a7b005-d5d8-4584-bcc7-b9a983af4c65,chilli.foundation,available,5.99,40.99,high,low,6,name.com,,,12/08/2026 05:33
 50a04a48-a6ce-4fe6-8439-f01001214671,swingy.foundation,available,5.99,40.99,medium,low,6,name.com,,,23/08/2026 09:29
 1ba4bd92-15d1-4383-b905-0eb9838d8ca1,rugose.foundation,available,7.48,37.98,high,medium,6,namecheap,,,09/09/2026 19:20
 d597b8ee-5200-4054-9544-4af729b7d192,narrates.foundation,available,6.41,22.39,medium,low,8,spaceship,,,29/09/2026 17:58
-c1119e2c-5c48-4269-8cd8-27b3f0496908,permissive.foundation,available,7.48,37.98,high,low,10,namecheap,,,08/09/2026 17:48
+c1119e2c-5c48-4269-8cd8-27b3f0496908,permissive.foundation,available,7.48,37.98,medium,low,10,namecheap,,,08/09/2026 17:48
 2603438e-2d91-4c6f-91e9-03f42d1149ea,abuser.foundation,available,7.48,37.98,medium,low,6,namecheap,,,16/09/2026 19:17
 f8232a7f-9226-4b16-b90f-171cb2bf546f,cislunar.foundation,available,5.99,40.99,medium,low,8,name.com,,,12/08/2026 08:30
 8bf67817-8dde-483d-8b17-4392fa99d326,alkanet.foundation,available,14.99,23.99,medium,low,7,namesilo,,,18/09/2026 08:26
@@ -271,10 +294,12 @@ f588cf83-5fa1-45fb-85ab-b50d5909aa4c,deductive.foundation,available,5.99,40.99,m
 54b432f6-db81-4289-83da-ade50935f85b,deific.foundation,available,5.99,40.99,medium,low,6,name.com,,,14/08/2026 00:13
 5f2f84c7-4342-4e9f-80b7-39f744107ed5,banker.foundation,premium,38.94,38.94,high,low,6,namesilo,,,22/09/2026 02:46
 3046b074-63ac-4ac5-a78f-a8e439d3f4e3,brains.foundation,available,14.99,23.99,high,low,6,namesilo,,,25/09/2026 18:40
-de8fb187-ec45-47d9-add6-404bbc001a00,storied.foundation,available,5.99,40.99,high,low,7,name.com,,,21/08/2026 09:55
+de8fb187-ec45-47d9-add6-404bbc001a00,storied.foundation,available,5.99,40.99,medium,low,7,name.com,,,21/08/2026 09:55
 a70d79e6-3790-4e19-a0d3-c5be7f13883f,rag.foundation,resell,,,high,low,3,"Spaceship, Inc.",21/11/2025 08:53,21/11/2026 08:53,26/09/2026 08:28
 fe67788d-9edd-4217-8654-9cfb43b69b05,aplomb.foundation,available,7.48,37.98,high,low,6,namecheap,,,19/09/2026 17:47
 ea32c292-3f9f-4a46-b2c9-03231be2e132,tined.foundation,available,7.48,37.98,medium,low,5,namecheap,,,09/09/2026 03:20
+7556d570-4c5a-4732-a907-c867389384a5,thessaly.foundation,available,11.99,23.01,medium,low,8,dynadot,,,30/09/2026 11:10
+65927268-75ca-4ccd-8293-85c1b3dc1fbf,packers.foundation,available,7.48,37.98,medium,low,7,namecheap,,,01/10/2026 01:07
 d8addb9a-1434-4c0a-a1aa-311d54d26641,sudanese.foundation,available,7.48,37.98,high,low,8,namecheap,,,11/09/2026 01:05
 e3907e33-c4f9-4ced-a03f-5244874ba237,alalia.foundation,available,14.99,23.99,medium,low,6,namesilo,,,18/09/2026 01:40
 2ff5da86-bb8e-4fa4-8c8c-0a9182a57df8,disagreement.foundation,available,6.41,22.39,medium,low,12,spaceship,,,29/09/2026 10:22
@@ -293,27 +318,31 @@ a274e123-5988-4e28-9541-e7de893718ab,evince.foundation,available,5.99,40.99,high
 84d5727c-cf79-4a79-a214-4f38ca4b2cb9,dating.foundation,premium,102.67,102.67,high,low,6,spaceship,,,29/09/2026 13:14
 c250e65e-f01c-4689-86fc-1f395b70b173,lighted.foundation,available,5.99,40.99,high,low,7,name.com,,,21/08/2026 20:09
 478e0943-c77d-410e-b7d1-a55ea1a646d3,merger.foundation,available,6.41,22.39,high,low,6,spaceship,,,28/09/2026 20:49
-0fd14352-917d-4a55-b9c2-5481e9bebbb5,seaworthy.foundation,available,7.48,37.98,high,low,9,namecheap,,,10/09/2026 01:05
+0fd14352-917d-4a55-b9c2-5481e9bebbb5,seaworthy.foundation,available,7.48,37.98,medium,low,9,namecheap,,,10/09/2026 01:05
 f4aaa2e7-b1b7-41ae-a9a0-1b9303147ca1,confetti.foundation,available,14.99,23.99,high,low,8,namesilo,,,29/09/2026 10:53
 6c5cbe7b-d7c9-40e8-bb4b-c587697f9401,channel.foundation,premium,102.67,102.67,high,low,7,spaceship,,,29/09/2026 08:01
 57f58810-7c97-4ef4-879a-62d8d069964b,blewit.foundation,available,7.48,37.98,low,low,7,namecheap,,,17/09/2026 21:32
 f5369394-2a53-4061-8a03-fe413fc6ffcc,googler.foundation,available,5.99,,high,low,7,name.com,,,
 4d469ca9-3555-4746-9d2e-6a1f1f0fa883,unaddicted.foundation,available,7.48,37.98,medium,low,10,namecheap,,,11/09/2026 23:50
-f0f75bbb-a38f-4602-ba65-e0b628be3f1c,insinuate.foundation,available,5.99,40.99,high,low,9,name.com,,,22/08/2026 08:35
+f0f75bbb-a38f-4602-ba65-e0b628be3f1c,insinuate.foundation,available,5.99,40.99,medium,low,9,name.com,,,22/08/2026 08:35
+a6e4aa3e-1ca1-48ea-904a-b8d4a858a062,havoc.foundation,available,14.99,23.99,high,low,5,namesilo,,,30/09/2026 10:05
 d8c82e97-89f6-4099-a829-48fe3117e434,holotype.foundation,available,5.99,40.99,high,low,8,name.com,,,25/09/2026 23:08
+d4d6b4e4-dc4f-45e1-9408-e6366c2d0a8b,europeans.foundation,available,6.41,22.39,medium,low,9,spaceship,,,30/09/2026 15:43
 86b28a6d-12fd-48a3-9bbf-21e5993836c4,foolhardy.foundation,available,5.99,40.99,medium,low,9,name.com,,,18/08/2026 10:28
-586fa2a0-fb89-49a8-9b83-ef3532a2bf1c,clothing.foundation,premium,128.7,128.7,high,low,8,namecheap,,,28/09/2026 04:12
+586fa2a0-fb89-49a8-9b83-ef3532a2bf1c,clothing.foundation,premium,102.67,102.67,high,low,8,spaceship,,,30/09/2026 20:57
 5f3999d3-9d69-4115-b831-b6f92b8bb6f0,pyknic.foundation,available,5.99,40.99,medium,low,6,name.com,,,17/08/2026 01:17
 16e27ade-849f-408a-aedd-5dc9fd410f77,author.foundation,premium,38.94,38.94,high,low,6,namesilo,,,21/09/2026 05:09
 7128b50b-a0a6-4cc0-abbd-c6d703a473e6,abaxial.foundation,available,5.99,40.99,medium,low,7,name.com,,,
 b1587ead-cddb-4bc2-b82c-f4a2f58f5162,snuggle.foundation,available,7.48,37.98,high,low,7,namecheap,,,24/09/2026 20:12
+1a560f69-285f-4a72-952d-670e0f0a281a,machiavelli.foundation,available,14.99,23.99,high,low,11,namesilo,,,30/09/2026 04:12
 757ae498-57e8-48c7-8320-38ba81b27eee,notebooks.foundation,available,14.99,23.99,medium,low,9,namesilo,,,20/09/2026 11:51
 3d11409b-8789-4889-a332-6827f434a880,adhesive.foundation,available,5.99,40.99,high,low,8,name.com,,,
 0913c5d3-06b4-42ac-94f9-6a62bd929106,gracile.foundation,available,5.99,40.99,medium,low,7,name.com,,,20/08/2026 17:29
-3711b56f-8e58-4102-b62a-4365340d3eff,plausibly.foundation,available,7.48,37.98,high,low,9,namecheap,,,14/09/2026 09:28
+3711b56f-8e58-4102-b62a-4365340d3eff,plausibly.foundation,available,7.48,37.98,medium,low,9,namecheap,,,14/09/2026 09:28
+2fdcedd1-e2b1-4fb8-b92c-7986a457b8d7,traitors.foundation,available,11.99,23.01,low,low,8,dynadot,,,30/09/2026 15:38
 c1d91af7-860f-421a-a801-7153b3d1961c,allotropic.foundation,available,5.99,40.99,medium,low,10,name.com,,,
 9ef3ac00-7926-4642-89a8-b3db5e48e028,oodles.foundation,available,7.48,37.98,high,low,6,namecheap,,,14/09/2026 23:32
-4453edbb-a06e-417b-bd21-66506f0c947e,mccartney.foundation,available,6.41,22.39,high,low,9,spaceship,,,28/09/2026 06:23
+4453edbb-a06e-417b-bd21-66506f0c947e,mccartney.foundation,available,6.41,22.39,medium,low,9,spaceship,,,28/09/2026 06:23
 28dc4ad9-08bc-4cad-97ef-47050a7ba3e9,dupe.foundation,available,5.99,40.99,high,low,4,name.com,,,12/08/2026 15:10
 36e5d632-6164-480b-a6af-398ffe1abb0d,probative.foundation,available,7.48,37.98,medium,low,9,namecheap,,,09/09/2026 02:27
 06b4aa8a-5875-44be-9223-626fe6b3daf6,prick.foundation,available,5.99,40.99,medium,low,5,name.com,,,08/08/2026 23:38
@@ -329,6 +358,7 @@ d1eb63b1-8679-4e0f-941d-726bfbc2c254,atropa.foundation,available,14.99,23.99,med
 dbec89c7-fdb1-4a66-9f52-5764fbe5809f,boiling.foundation,available,7.48,37.98,high,low,7,namecheap,,,14/09/2026 00:51
 9f15f6e9-41af-4d39-9614-82edeae823b0,uuq.foundation,available,14.99,23.99,medium,low,3,namesilo,,,20/09/2026 22:18
 8745d3d0-2830-4cee-89f4-d0fbcfc1b678,diabetes.foundation,premium,118.8,118.8,high,low,8,namesilo,,,29/09/2026 14:48
+8fe068f2-cdde-4e43-8cb7-72277a7659dd,organisms.foundation,available,14.99,23.99,medium,low,9,namesilo,,,30/09/2026 23:35
 8d8bbdfc-c966-4a3c-b8d8-b510ef350cdd,piper.foundation,available,5.99,22.66,high,low,5,porkbun,,,29/09/2026 00:31
 db7f1395-92ce-46c3-97a3-f5d60996aea9,pcb.foundation,available,21.7,21.7,high,low,3,cloudflare,,,28/09/2026 17:13
 b577e3b7-1914-4e6b-96f6-f25016789574,swear.foundation,available,7.48,37.98,high,low,5,namecheap,,,24/09/2026 20:32
@@ -336,29 +366,32 @@ b577e3b7-1914-4e6b-96f6-f25016789574,swear.foundation,available,7.48,37.98,high,
 efe5f5e7-3ffc-449d-887e-103347c57e9a,reached.foundation,available,7.48,37.98,medium,low,7,namecheap,,,17/09/2026 19:16
 0d1b8889-13ce-49c6-8418-972c2d673afe,album.foundation,available,6.41,22.39,high,low,5,spaceship,,,28/09/2026 20:08
 883d4ab3-20a2-451e-9963-a59c394e3983,offensive.foundation,available,5.99,40.99,high,low,9,name.com,,,14/08/2026 22:05
+9f52e981-aadb-49f6-b6c0-a3c6dadb640e,hovering.foundation,available,11.99,23.01,high,low,8,dynadot,,,30/09/2026 07:20
 4dc35b00-e81d-42a8-979a-c4edb1aac6b7,romanist.foundation,available,7.48,37.98,medium,low,8,namecheap,,,05/09/2026 01:28
+f522543a-14be-4ebe-896d-3abcd3f861db,stampede.foundation,available,21.7,21.7,high,low,8,cloudflare,,,30/09/2026 11:05
 5d67f4b1-6a8a-4d3b-ac38-13009fdacbc7,dreadful.foundation,available,14.99,23.99,high,low,8,namesilo,,,22/09/2026 15:15
 56d7aac4-9273-4063-9c09-4139d8455f97,chandra.foundation,available,6.41,22.39,medium,low,7,spaceship,,,28/09/2026 08:00
 2a248157-241d-4a5c-b07d-ddcf53abbf92,crudely.foundation,available,7.48,37.98,medium,low,7,namecheap,,,13/09/2026 20:58
 b5aea5bf-0dca-45a0-a600-06a02db83e47,donnish.foundation,available,5.99,40.99,low,low,7,name.com,,,14/08/2026 15:53
 e8f737ea-9a38-499d-bdce-fa34124b0799,ana.foundation,available,5.99,22.66,high,low,3,porkbun,,,28/09/2026 21:04
 7f43ceb4-b9a6-4650-8b83-86fc78a2c89f,vanilla.foundation,available,7.48,37.98,high,low,7,namecheap,,,13/09/2026 01:08
-cdbb7eef-4ef5-43e4-b641-b731e8ace628,corbin.foundation,available,6.41,22.39,high,low,6,spaceship,,,28/09/2026 07:42
+cdbb7eef-4ef5-43e4-b641-b731e8ace628,corbin.foundation,available,6.41,22.39,medium,low,6,spaceship,,,28/09/2026 07:42
 d046c46b-da63-4c59-b027-308cf24d370a,end.foundation,premium,38.94,38.94,high,low,3,namesilo,,,19/09/2026 15:33
 48c617fc-6ccb-465b-a4d1-6783a019137d,songwriter.foundation,available,14.99,23.99,high,low,10,namesilo,,,21/09/2026 22:37
 c236a87e-1439-47ec-8c48-33b77726ee55,crossways.foundation,available,7.48,37.98,medium,low,9,namecheap,,,14/09/2026 09:48
 75949235-412a-48fd-aa36-06a644f640fb,composition.foundation,available,14.99,23.99,medium,low,11,namesilo,,,28/09/2026 22:45
 5e586fa1-1ebf-408b-bf64-c70e97b389f0,digestion.foundation,available,42.99,42.99,high,low,9,godaddy,,,30/09/2026 01:19
 4315c949-01d1-4ec1-b242-6b6a6de509c0,abbey.foundation,available,14.99,23.99,high,low,5,namesilo,,,16/09/2026 14:25
-a0fb3d77-3596-4cea-a85f-118ec53d283a,gleefully.foundation,available,7.48,37.98,high,low,9,namecheap,,,14/09/2026 21:28
+a0fb3d77-3596-4cea-a85f-118ec53d283a,gleefully.foundation,available,7.48,37.98,medium,low,9,namecheap,,,14/09/2026 21:28
 0dfc4b3e-5a1a-4e2d-9d92-87c541ad424f,undeterred.foundation,available,7.48,37.98,medium,low,10,namecheap,,,12/09/2026 07:59
 5a78aa34-8b77-4c17-9de1-bcccb4b20ec9,postoffice.foundation,available,5.99,,high,low,11,name.com,,,
 9fccd897-32fc-47cb-b043-cc833fb8e24b,antinomy.foundation,available,14.99,23.99,medium,low,8,namesilo,,,19/09/2026 14:49
 bed2768f-427f-4e92-b974-6b157be36b83,robbers.foundation,available,14.99,23.99,low,low,7,namesilo,,,28/09/2026 23:38
-12dafd8c-d72c-4765-ad4f-d78b3631f064,pimento.foundation,available,7.48,37.98,high,low,7,namecheap,,,23/09/2026 05:37
+12dafd8c-d72c-4765-ad4f-d78b3631f064,pimento.foundation,available,7.48,37.98,medium,low,7,namecheap,,,23/09/2026 05:37
 ab516e69-0ea9-4b59-84f3-a56a942c01d8,shenandoah.foundation,available,11.99,23.01,medium,low,10,dynadot,,,27/09/2026 21:14
 d0446ea1-745a-405b-a18b-4a3ddd62fa2f,venezuelan.foundation,available,7.48,37.98,high,low,10,namecheap,,,13/09/2026 02:04
 4dd24f96-b0f1-42d9-960e-5261e6e55595,finals.foundation,available,14.99,23.99,high,low,6,namesilo,,,18/09/2026 22:07
+876dcd3b-a539-48a9-a706-71da30cb066f,receptionist.foundation,available,14.99,23.99,high,low,12,namesilo,,,30/09/2026 12:16
 b729de29-ce7d-4dc2-b962-2b60aaed80f9,waterless.foundation,available,5.99,40.99,medium,low,9,name.com,,,06/08/2026 19:03
 46d86e70-b23c-4c6d-9f6e-f0d50b052d7a,fitly.foundation,available,7.48,37.98,medium,low,5,namecheap,,,13/09/2026 20:33
 385945bc-6805-4130-a1fd-1e06ba040000,arak.foundation,available,7.48,37.98,medium,low,4,namecheap,,,19/09/2026 23:47
@@ -366,7 +399,7 @@ b729de29-ce7d-4dc2-b962-2b60aaed80f9,waterless.foundation,available,5.99,40.99,m
 fd377e7f-8583-4868-9329-047aa6e46123,shortages.foundation,available,14.99,23.99,medium,low,9,namesilo,,,21/09/2026 03:14
 8b3d3954-3694-4355-9c6b-f71c53cd0117,marlowe.foundation,available,21.7,21.7,medium,low,7,cloudflare,,,28/09/2026 18:43
 53fe1bf4-4e97-4d6e-8788-a219a7a21c2e,deficit.foundation,available,14.99,23.99,high,low,7,namesilo,,,29/09/2026 13:33
-83f4dd72-7c12-471a-b54c-59d1b10f1d67,accordant.foundation,available,5.99,40.99,high,low,9,name.com,,,
+83f4dd72-7c12-471a-b54c-59d1b10f1d67,accordant.foundation,available,5.99,40.99,medium,low,9,name.com,,,
 c19b348d-b8ed-42e4-801e-8d02346f551c,reaches.foundation,available,7.48,37.98,high,low,7,namecheap,,,18/09/2026 18:09
 916104ab-625f-478d-bad0-cfd77a520dd3,betting.foundation,resell,,,high,low,7,Dynadot Inc,11/07/2026 17:00,11/07/2027 17:00,26/09/2026 04:23
 05e8e675-abff-45c1-aa47-f879587bfdb0,reprieve.foundation,available,14.99,23.99,high,low,8,namesilo,,,16/09/2026 14:08
@@ -376,7 +409,7 @@ c19b348d-b8ed-42e4-801e-8d02346f551c,reaches.foundation,available,7.48,37.98,hig
 af7c49ab-2896-4aa8-8b82-7768f153d707,adopted.foundation,available,5.99,40.99,high,low,7,name.com,,,
 5e8b714b-8e05-4fcb-99f5-dd3ae7fddadb,aeronaut.foundation,available,14.99,23.99,high,low,8,namesilo,,,17/09/2026 13:09
 bbbc9c74-fdcd-4f10-845f-39124ba01580,texture.foundation,available,6.41,22.39,high,low,7,spaceship,,,28/09/2026 20:37
-4a5f52c1-46bf-472d-83fd-12bb6a293849,glowingly.foundation,available,7.48,37.98,high,low,9,namecheap,,,14/09/2026 21:48
+4a5f52c1-46bf-472d-83fd-12bb6a293849,glowingly.foundation,available,7.48,37.98,medium,low,9,namecheap,,,14/09/2026 21:48
 8a55da0f-ce01-4570-9af0-f4a524dad87c,quack.foundation,available,7.48,37.98,high,low,5,namecheap,,,09/09/2026 07:16
 e831da74-bc67-444e-8f9c-78f9669e43c6,unearthly.foundation,available,5.99,40.99,medium,low,9,name.com,,,16/08/2026 02:28
 c602f36a-66c8-418f-8099-88b8471b83e8,collision.foundation,available,14.99,23.99,high,low,9,namesilo,,,29/09/2026 10:17
@@ -391,13 +424,14 @@ b8539ddf-0094-4a00-ab56-e15740de2b6b,adit.foundation,available,7.48,37.98,medium
 aded9c6d-07d7-4d3c-af1b-80d3809ffb00,bitis.foundation,available,14.99,23.99,medium,low,5,namesilo,,,23/09/2026 22:37
 be4cbe91-67d5-4db1-a69b-a149e29213fc,cloth.foundation,available,6.41,22.39,high,low,5,spaceship,,,28/09/2026 02:26
 0d0e2149-5a10-4e3c-bdd4-d44b058064c1,sums.foundation,available,14.99,23.99,medium,low,4,namesilo,,,18/09/2026 07:08
-c42e9ccd-740f-4809-aa03-c797fe9cb6e7,patterned.foundation,available,7.48,37.98,high,low,9,namecheap,,,08/09/2026 10:49
+c42e9ccd-740f-4809-aa03-c797fe9cb6e7,patterned.foundation,available,7.48,37.98,medium,low,9,namecheap,,,08/09/2026 10:49
 d0a7dc20-fb2e-4b67-af4b-42628677b892,elbow.foundation,available,14.99,23.99,high,low,5,namesilo,,,20/09/2026 11:23
+9bf0cfe2-dde6-478f-b8bc-2ae87d01de36,echoing.foundation,available,14.99,23.99,high,low,7,namesilo,,,30/09/2026 03:52
 8bb5faf8-6911-4046-be6e-11edfe665368,amoy.foundation,available,14.99,23.99,medium,low,4,namesilo,,,18/09/2026 23:05
 6ef6ca2a-e20f-463b-97a5-23b029dc5130,apadana.foundation,available,14.99,23.99,medium,low,7,namesilo,,,19/09/2026 16:10
 dceb32bf-b75e-4368-b695-c3e2118d27c1,interrogation.foundation,available,6.41,22.39,medium,low,13,spaceship,,,28/09/2026 08:22
 6e1b9b7b-c3cf-4e82-bba8-2d2538a4d508,stored.foundation,available,21.7,21.7,low,low,6,cloudflare,,,28/09/2026 17:31
-97e8235a-f5f3-455d-9986-645a8ff31d1b,dearly.foundation,available,5.99,40.99,high,low,6,name.com,,,13/08/2026 20:00
+97e8235a-f5f3-455d-9986-645a8ff31d1b,dearly.foundation,available,5.99,40.99,medium,low,6,name.com,,,13/08/2026 20:00
 2a3aa55d-f2fe-4265-b147-74a698d7e1e4,hannover.foundation,available,6.41,22.39,medium,low,8,spaceship,,,29/09/2026 01:14
 2360f6f1-d7ce-45b0-9004-d4488ce7b6f5,shining.foundation,available,14.99,23.99,high,low,7,namesilo,,,23/09/2026 11:49
 c1e76a62-8c8a-4e69-92f6-fba5984d2148,integrate.foundation,available,6.41,22.39,high,low,9,spaceship,,,28/09/2026 06:58
@@ -405,32 +439,36 @@ c1e76a62-8c8a-4e69-92f6-fba5984d2148,integrate.foundation,available,6.41,22.39,h
 f1cfd5af-8836-43de-8d84-994ca8fe9039,affluent.foundation,available,14.99,23.99,high,low,8,namesilo,,,21/09/2026 21:54
 55e85688-b3b4-4439-bfa8-94b10fa956e6,potently.foundation,available,7.48,37.98,medium,low,8,namecheap,,,15/09/2026 21:07
 33166272-dda4-4224-8237-c320168adcce,telegram.foundation,resell,,,high,medium,8,,,,27/09/2026 16:02
-9975e830-558c-4c2b-a302-445cd8dfa9d8,skies.foundation,available,14.99,23.99,high,low,5,namesilo,,,18/09/2026 07:49
+9975e830-558c-4c2b-a302-445cd8dfa9d8,skies.foundation,available,14.99,23.99,medium,low,5,namesilo,,,18/09/2026 07:49
 bda51029-46ab-4a54-8fc0-9fba3f67bd75,vicenary.foundation,available,7.48,37.98,medium,low,8,namecheap,,,13/09/2026 05:21
 b8dc6b6f-8839-42c7-80c2-630a2250b62c,thy.foundation,premium,,,medium,low,3,,,,28/09/2026 15:36
 eea6ce2c-318a-4d33-b401-8559563f7c72,aidan.foundation,available,21.7,21.7,high,low,5,cloudflare,,,29/09/2026 15:22
 61ef0787-7cec-44c2-a5e0-a85c3c09755a,improvise.foundation,available,14.99,23.99,high,low,9,namesilo,,,21/09/2026 16:45
 e4dcde88-2d51-4fc4-9c52-d6dac68c22bf,nectarous.foundation,available,5.99,40.99,medium,low,9,name.com,,,
+a8d0c68e-59b3-4bda-a519-dcb82a352097,ligament.foundation,available,7.48,37.98,high,low,8,namecheap,,,30/09/2026 10:27
 c5b81ba3-b6a1-41c1-9b63-1dc92afec97c,fencing.foundation,premium,72.6,72.6,high,low,7,dynadot,,,29/09/2026 00:54
 3aa36cd8-5102-47aa-968d-0822e7a09497,tenure.foundation,available,6.41,22.39,high,low,6,spaceship,,,29/09/2026 19:18
 dc39955e-39b9-4921-a978-db0a7c8f9ac4,bali.foundation,available,14.99,23.99,high,medium,4,namesilo,,,29/09/2026 00:44
 0eaab79d-4ba1-43b1-88e2-52e4d2a033ec,directory.foundation,premium,118.8,118.8,high,low,9,namesilo,,,24/09/2026 22:24
-6acec14a-fd25-44f5-8536-1fadbfea3d50,curled.foundation,available,5.99,40.99,high,low,6,name.com,,,13/08/2026 11:19
+6acec14a-fd25-44f5-8536-1fadbfea3d50,curled.foundation,available,5.99,40.99,medium,low,6,name.com,,,13/08/2026 11:19
 a6a08b61-acda-433d-aa3c-e5de14b349c2,transylvania.foundation,available,7.48,37.98,high,low,12,namecheap,,,27/09/2026 18:35
+8967227e-bc61-45eb-873a-faf484038728,soule.foundation,available,6.41,22.39,medium,low,5,spaceship,,,30/09/2026 20:15
 112aef5e-db3f-4d90-a32e-5906e535bb9a,pilotless.foundation,available,7.48,37.98,high,medium,9,namecheap,,,08/09/2026 19:42
 e03107ad-9a77-4bbf-bcd8-3cda6ee46b79,perhaps.foundation,available,21.7,21.7,high,low,7,cloudflare,,,28/09/2026 16:16
 30858be0-2d1d-4434-83ce-fb1ca26cd8c1,belmont.foundation,available,14.99,23.99,high,low,7,namesilo,,,23/09/2026 06:57
 48e77b13-203e-4b6a-9e23-d540dd98927a,discreetly.foundation,available,7.48,37.98,medium,low,10,namecheap,,,14/09/2026 13:04
+814d2bf6-2125-4c1f-b87e-acf18f18780c,swamps.foundation,available,14.99,23.99,medium,low,6,namesilo,,,30/09/2026 15:45
 80d61bab-7fa2-4da5-b6eb-948eaf388d76,violently.foundation,available,14.99,23.99,medium,low,9,namesilo,,,16/09/2026 11:00
 e68ad679-a972-4c36-9572-823279be6b19,tak.foundation,available,14.99,23.99,high,low,3,namesilo,,,29/09/2026 09:19
 83b35894-69d1-4f49-a5d4-c224268ae5ec,ritenuto.foundation,available,7.48,37.98,high,medium,8,namecheap,,,09/09/2026 09:55
 4500f0e7-dd6e-415b-b626-703bad35c471,avidity.foundation,available,7.48,37.98,high,low,7,namecheap,,,21/09/2026 09:28
-4a6d85e3-d546-48bd-aef9-a5d4924e03e8,pretzel.foundation,available,5.99,,high,low,7,name.com,,,
+4a6d85e3-d546-48bd-aef9-a5d4924e03e8,pretzel.foundation,available,6.41,22.39,high,low,7,spaceship,,,30/09/2026 07:15
 bc21b924-19ea-4080-a3a8-60a2fe986dfd,bolts.foundation,available,14.99,23.99,medium,low,5,namesilo,,,18/09/2026 04:01
 c5be0fa8-6016-4dd0-82f9-63396ca7b50f,dinkey.foundation,available,5.99,40.99,medium,low,6,name.com,,,14/08/2026 08:16
 3c316e0c-a7de-42bb-893b-cdf3d0d57e41,denison.foundation,available,6.41,22.39,medium,low,7,spaceship,,,28/09/2026 08:06
 bd0b56b8-c6b8-4df9-9104-336e2154aaf1,socks.foundation,available,14.99,23.99,high,low,5,namesilo,,,27/09/2026 08:18
 bae5e6ee-802b-4ef7-886d-8e7f511b35f2,volunteered.foundation,available,14.99,23.99,high,low,11,namesilo,,,28/09/2026 09:06
+7b657492-f3af-4318-8187-e928abbbed82,herbicide.foundation,available,14.99,23.99,medium,low,9,namesilo,,,30/09/2026 17:35
 758ac7a3-5e86-4321-92dc-7f12f89648dc,nuthin.foundation,available,5.99,,medium,low,6,name.com,,,
 de311c2e-5019-4b3a-88bb-4af4203f1b8c,jural.foundation,available,5.99,40.99,medium,low,5,name.com,,,22/08/2026 14:34
 2a7e16a2-5ad5-4137-a4ee-71104f65be0e,selective.foundation,available,7.48,37.98,high,low,9,namecheap,,,10/09/2026 01:58
@@ -459,11 +497,11 @@ e20f80a7-bda7-400d-a798-b73454225860,arctic.foundation,available,,,high,low,6,,,
 289ced3b-7635-4d5e-95fd-36bd8d2fe226,indocile.foundation,available,5.99,40.99,medium,low,8,name.com,,,22/08/2026 03:18
 9698a2ce-849f-4544-9811-e3c265fb8728,honeymooning.foundation,available,14.99,23.99,high,low,12,namesilo,,,21/09/2026 06:04
 d27b2b33-92de-47a9-b025-1794766e0d38,conducting.foundation,available,14.99,23.99,high,low,10,namesilo,,,29/09/2026 10:46
-991a1bbb-54ff-4592-84fe-a475f0e4b07a,glib.foundation,available,5.99,40.99,high,low,4,name.com,,,20/08/2026 14:26
+991a1bbb-54ff-4592-84fe-a475f0e4b07a,glib.foundation,available,5.99,40.99,medium,low,4,name.com,,,20/08/2026 14:26
+1f9a8195-4a69-4faa-88d0-202f06ad9d14,gallop.foundation,available,14.99,23.99,high,low,6,namesilo,,,01/10/2026 02:15
 51729e73-d2bb-46a9-a163-1438360a72e7,chemicals.foundation,available,14.99,23.99,medium,low,9,namesilo,,,28/09/2026 08:24
 4eb5fba9-6361-4269-846a-ae17d5b474a2,pulpy.foundation,available,7.48,37.98,high,medium,5,namecheap,,,09/09/2026 05:57
-137ff7f3-1182-453a-9749-4b371ba096f3,which.foundation,available,,,high,medium,5,,,,
-8223e878-c3ae-4442-bbd8-877923f4b4a2,visiting.foundation,available,5.99,,high,low,8,name.com,,,
+8223e878-c3ae-4442-bbd8-877923f4b4a2,visiting.foundation,available,21.7,21.7,high,low,8,cloudflare,,,30/09/2026 14:33
 1c9173df-4c9c-4689-9cd9-09037a93f354,panty.foundation,available,7.48,37.98,high,low,5,namecheap,,,09/09/2026 22:42
 16a5e1de-4863-49ff-8dcf-4200d99ac06f,nonsuch.foundation,available,7.48,37.98,medium,low,7,namecheap,,,03/09/2026 20:15
 accc54a9-2bbe-4ced-a1c0-f67a9dd3a529,vaccination.foundation,available,5.99,,high,low,11,name.com,,,
@@ -471,6 +509,8 @@ a529099a-80bd-4058-aa88-e679c758ba91,grumbler.foundation,available,14.99,23.99,m
 e2324b3f-ce5a-4d42-82cb-34030ab77f20,cubby.foundation,available,7.48,37.98,high,medium,5,namecheap,,,10/09/2026 12:51
 784079c9-c7c2-497b-8da7-97b98306e5d9,elegiac.foundation,available,5.99,40.99,medium,low,7,name.com,,,16/08/2026 03:28
 daab2c7b-7e9a-4719-845e-e902c1d7e52b,alteration.foundation,available,14.99,23.99,high,low,10,namesilo,,,18/09/2026 14:42
+f4a99816-fff0-4bf1-9334-8cb98242431c,stormwater.foundation,available,6.41,22.39,high,low,10,spaceship,,,30/09/2026 05:51
+2c63615e-81a6-4211-b740-7c5c1b837d1d,coproduction.foundation,available,14.99,23.99,medium,low,13,namesilo,,,30/09/2026 14:49
 13b3f659-92d3-4da9-bf40-d13b981b16b4,blazers.foundation,available,14.99,23.99,medium,low,7,namesilo,,,20/09/2026 11:38
 1272405a-53e3-4cfd-ade4-6b424a81e6aa,alessandro.foundation,available,14.99,23.99,medium,low,10,namesilo,,,28/09/2026 05:03
 4cc8174c-b851-4348-ace3-2998b0363f13,naseby.foundation,available,7.48,37.98,medium,low,6,namecheap,,,22/09/2026 15:31
@@ -483,20 +523,21 @@ b1b28c63-dd9e-4d26-b50e-b62a6cc2cddc,frequent.foundation,available,5.99,40.99,hi
 b1cfe942-4271-4ab8-8303-9cca50fa4143,bulbous.foundation,available,5.99,40.99,medium,low,7,name.com,,,09/08/2026 13:39
 50e16893-feb3-4632-adb4-b6f44c65ef0b,freddy.foundation,available,11.99,23.01,high,low,6,dynadot,,,28/09/2026 07:49
 36219bc4-4107-42d3-afd6-040b2141cc86,bioscience.foundation,available,7.48,37.98,high,low,10,namecheap,,,23/09/2026 18:59
-c9c1236d-6961-43b8-9510-e9cb8d2b9331,timid.foundation,available,5.99,40.99,high,low,5,name.com,,,11/08/2026 22:46
+c9c1236d-6961-43b8-9510-e9cb8d2b9331,timid.foundation,available,5.99,40.99,medium,low,5,name.com,,,11/08/2026 22:46
 f7f6096b-ad5d-482a-9004-bb51de3dbd7a,nobly.foundation,available,7.48,37.98,medium,low,5,namecheap,,,15/09/2026 16:42
 97aa705a-5491-4257-a540-636bde4442c5,estimate.foundation,available,21.7,21.7,high,low,8,cloudflare,,,28/09/2026 21:56
 448e63f0-6d12-4d6d-96ef-2645fb9bbb0e,waite.foundation,available,6.41,22.39,medium,low,5,spaceship,,,28/09/2026 19:55
 be733e20-f1c5-45d1-ae37-db089d59cfa1,venerating.foundation,available,7.48,37.98,high,low,10,namecheap,,,09/09/2026 16:09
 0adac75b-7c06-4d25-9dd3-525409f71d08,lavoisier.foundation,available,14.99,23.99,medium,low,9,namesilo,,,19/09/2026 15:25
 f651c723-905b-48f4-a29a-0f87726510d0,acquire.foundation,available,6.41,22.39,high,low,7,spaceship,,,29/09/2026 06:15
-8ddd9be3-fd58-4088-8f79-c6d0ae7c978e,scully.foundation,available,6.41,22.39,high,low,6,spaceship,,,28/09/2026 11:43
+8ddd9be3-fd58-4088-8f79-c6d0ae7c978e,scully.foundation,available,6.41,22.39,medium,low,6,spaceship,,,28/09/2026 11:43
 80ed82c6-18b1-42de-a1e2-0fe6f3d07c52,bangle.foundation,available,14.99,23.99,high,low,6,namesilo,,,22/09/2026 01:57
 e807cef5-1447-408e-9c56-f3af84ac42e3,slipstream.foundation,available,14.99,23.99,high,low,10,namesilo,,,21/09/2026 16:20
 5c264131-4cd1-4a49-962f-ae26242f9ef5,missoula.foundation,available,21.7,21.7,medium,low,8,cloudflare,,,29/09/2026 01:41
 6197c486-bcd7-46c4-88fa-5f13bd16df04,snow.foundation,resell,,,high,medium,4,"Spaceship, Inc.",05/08/2026 17:01,05/08/2027 17:01,29/09/2026 01:12
+482251b1-8449-4c6c-b43d-bbf6dc3e6bed,darrow.foundation,available,5.99,22.66,medium,low,6,porkbun,,,30/09/2026 09:12
 f0ee375b-49b0-498c-bdbc-53006c868441,awhile.foundation,available,5.99,22.66,medium,low,6,porkbun,,,28/09/2026 13:12
-2b948709-2c38-4663-81c6-d9243b5bf2e3,norfolk.foundation,available,5.99,,high,low,7,name.com,,,
+2b948709-2c38-4663-81c6-d9243b5bf2e3,norfolk.foundation,available,7.48,37.98,high,low,7,namecheap,,,30/09/2026 05:50
 752b0292-fe1c-4221-93cf-f4767b37e6e5,recommend.foundation,available,11.99,23.01,high,low,9,dynadot,,,28/09/2026 19:07
 8db8caf4-478e-4537-8c0c-c4d6706b6b9f,len.foundation,available,14.99,23.99,medium,low,3,namesilo,,,27/09/2026 01:38
 8e12b9cc-26a7-46b1-98e5-f572b2fdbf78,accidents.foundation,available,14.99,23.99,medium,low,9,namesilo,,,28/09/2026 05:03
@@ -506,8 +547,10 @@ f0ee375b-49b0-498c-bdbc-53006c868441,awhile.foundation,available,5.99,22.66,medi
 a1576189-52ce-4146-8a68-902a5541253e,antigram.foundation,available,14.99,23.99,low,low,8,namesilo,,,19/09/2026 14:31
 37c507b3-6f9c-4b78-b9ef-4ebf3534c446,circuitry.foundation,available,11.99,23.01,high,low,9,dynadot,,,28/09/2026 02:48
 3815c57e-ffd3-4755-b04c-cd90e9d1a42f,trio.foundation,available,7.48,37.98,high,low,4,namecheap,,,21/09/2026 13:05
+22200bb1-baff-4527-845e-dcac3b003910,transporter.foundation,available,14.99,23.99,high,low,11,namesilo,,,30/09/2026 11:44
 3143f072-0f2c-4958-a0ac-60818307ce5a,planetal.foundation,available,7.48,37.98,medium,low,8,namecheap,,,08/09/2026 20:42
 46acb931-1a0f-4166-8c93-7d73a2285894,broke.foundation,available,7.48,37.98,high,low,5,namecheap,,,23/09/2026 09:49
+5304d7e4-20f9-4232-8d18-62267c648d89,undergo.foundation,available,21.7,21.7,high,low,7,cloudflare,,,30/09/2026 03:15
 85de0eab-1c78-40d1-874b-40a0608c184d,sheikh.foundation,available,14.99,23.99,high,low,6,namesilo,,,19/09/2026 23:25
 a745ebaa-09af-4d9a-b129-24b6f640a2a2,microscopic.foundation,available,6.41,22.39,high,low,11,spaceship,,,29/09/2026 08:46
 5144a390-511e-44bc-8f90-b66c2a8f2a04,bag.foundation,available,5.99,,high,low,3,name.com,,,
@@ -521,6 +564,7 @@ e7050876-6f86-43c0-b4de-15eee758bc91,pharaonic.foundation,available,7.48,37.98,m
 a94207ca-c853-4ef0-8ecc-81ee363764d4,corrections.foundation,available,14.99,23.99,high,low,11,namesilo,,,17/09/2026 22:27
 a0fa09ec-c5a9-4afc-a338-de45a4f7fdef,minimally.foundation,available,5.99,40.99,medium,low,9,name.com,,,15/09/2026 15:02
 2f02b7eb-e135-4386-8fa0-05724a5b7e6e,hereto.foundation,available,5.99,40.99,medium,low,6,name.com,,,15/09/2026 00:34
+400d335c-c496-4056-8ee8-43ef7c6c6130,raids.foundation,available,11.99,23.01,medium,low,5,dynadot,,,30/09/2026 07:30
 f06d462f-9146-4d7f-ab98-7778d30d4464,plumbers.foundation,available,14.99,23.99,medium,low,8,namesilo,,,20/09/2026 11:13
 715487cb-725b-4c8d-b615-1da233616411,shadowed.foundation,available,7.48,37.98,medium,low,8,namecheap,,,10/09/2026 05:25
 13e15a5e-8ff7-4653-b554-a1f62c39125e,dodge.foundation,available,21.7,21.7,high,low,5,cloudflare,,,28/09/2026 01:47
@@ -528,10 +572,10 @@ f06d462f-9146-4d7f-ab98-7778d30d4464,plumbers.foundation,available,14.99,23.99,m
 2b5b3578-fd82-4e70-99f9-a7af2bc5bd05,tusked.foundation,available,7.48,37.98,medium,low,6,namecheap,,,11/09/2026 21:29
 6b91c2ba-e0b9-4749-b005-35799270fed7,increase.foundation,available,21.7,21.7,high,low,8,cloudflare,,,29/09/2026 20:27
 cf473b7b-ae49-4897-98e1-799cd19e82a4,rhode.foundation,available,7.48,37.98,high,low,5,namecheap,,,25/09/2026 15:06
-42f0078b-65d1-4096-b007-32b95976fc27,fright.foundation,available,7.48,37.98,high,low,6,namecheap,,,17/09/2026 14:50
+42f0078b-65d1-4096-b007-32b95976fc27,fright.foundation,available,7.48,37.98,medium,low,6,namecheap,,,17/09/2026 14:50
 ee37b51f-4394-4b9e-9437-7399f58a97b0,disconnected.foundation,available,7.48,37.98,medium,low,12,namecheap,,,28/09/2026 21:24
 8be20835-6a8e-4597-bd24-4af44f847cf0,bestiary.foundation,available,14.99,23.99,medium,low,8,namesilo,,,23/09/2026 10:36
-1d4f3cdc-4d07-4c1e-a731-f2510047f0b5,irritation.foundation,available,5.99,40.99,high,low,10,name.com,,,
+1d4f3cdc-4d07-4c1e-a731-f2510047f0b5,irritation.foundation,available,5.99,40.99,medium,low,10,name.com,,,
 d91cb7b2-be79-4885-9c00-4885b725970a,pestering.foundation,available,5.99,40.99,medium,low,9,name.com,,,
 a9f387b8-3917-44e0-ae2a-ae043efcfb35,gaspar.foundation,available,6.41,22.39,high,low,6,spaceship,,,29/09/2026 18:14
 ad114731-35bd-419a-8ea5-378cb5849dc3,catalan.foundation,premium,38.94,38.94,high,low,7,namesilo,,,11/08/2026 20:50
@@ -546,21 +590,23 @@ d0e780dd-1a6b-4b33-ba26-4005f6558f68,transonic.foundation,available,7.48,37.98,m
 8e8f7feb-14a3-4c46-80bb-b1208150ed0e,unrest.foundation,available,42.99,42.99,high,low,6,godaddy,,,30/09/2026 01:36
 98c8440c-6495-4cb4-b9a1-e9f9ca1799e2,ports.foundation,available,7.48,37.98,high,low,5,namecheap,,,29/09/2026 09:54
 3a235311-88dd-4a1a-a8ea-fa4d81c3d540,flavorless.foundation,available,5.99,40.99,medium,low,10,name.com,,,10/08/2026 12:57
-05b22cb7-28e8-4286-a633-e6621b994a6d,ways.foundation,available,5.99,,high,low,4,name.com,,,
+05b22cb7-28e8-4286-a633-e6621b994a6d,ways.foundation,available,11.99,23.01,high,low,4,dynadot,,,30/09/2026 11:08
 b4bfd2a3-01c6-474c-843a-43810412c418,fucking.foundation,available,14.99,23.99,high,low,7,namesilo,,,24/09/2026 22:07
 04581814-d2af-46b1-8d7b-ca460b446a0d,strumpet.foundation,available,14.99,23.99,medium,low,8,namesilo,,,17/09/2026 10:22
 00032140-6b48-4fe7-b068-a78f7ed24a15,enlarge.foundation,available,5.99,40.99,high,low,7,name.com,,,15/08/2026 23:49
 16a2dd84-f090-4cf7-812a-1a1425760fa3,kenalog.foundation,available,14.99,23.99,medium,low,7,namesilo,,,20/09/2026 05:49
 fe61ca2c-c21e-46ca-8bbd-c2016c5b61f8,deferent.foundation,available,5.99,40.99,medium,low,8,name.com,,,13/08/2026 23:17
+4f8dbe5a-4b93-4620-baef-e62b7d1dbf10,caswell.foundation,available,14.99,23.99,high,low,7,namesilo,,,30/09/2026 22:01
 9c9ca049-77bc-49e1-a406-12000670ffde,donkeys.foundation,available,14.99,23.99,medium,low,7,namesilo,,,20/09/2026 00:20
 1158e3d4-628a-4cc0-bffc-921faa66fa05,leprous.foundation,available,5.99,40.99,medium,low,7,name.com,,,23/08/2026 00:12
-8e6ed7c0-37f7-4c69-ae59-9c3df750c614,memorize.foundation,available,5.99,,high,low,8,name.com,,,
+8e6ed7c0-37f7-4c69-ae59-9c3df750c614,memorize.foundation,available,5.99,22.66,high,low,8,porkbun,,,30/09/2026 20:33
 d1ffee9f-7b5f-4a74-88ab-871c23051371,oakley.foundation,available,7.48,37.98,high,medium,6,namecheap,,,19/09/2026 10:26
+d24d05de-500e-4d1f-b656-cb28c404d151,tad.foundation,available,5.99,22.66,high,low,3,porkbun,,,30/09/2026 03:00
 542e9dd3-63e4-441c-b9db-1aae22d1d66b,assize.foundation,available,7.48,37.98,medium,low,6,namecheap,,,20/09/2026 16:30
 e9e5506c-aa0c-4429-b092-ec287fcedd4b,scooped.foundation,available,14.99,23.99,medium,low,7,namesilo,,,17/09/2026 23:31
 76ea17b7-c546-4fb2-9485-a79784fd4a58,rollover.foundation,available,14.99,23.99,high,low,9,namesilo,,,16/09/2026 17:22
-e0be50b1-6f30-47f9-9cf7-555ec3371614,operated.foundation,available,5.99,,high,low,8,name.com,,,
-2e565626-3b71-4beb-a170-8eaec399cf04,fruiting.foundation,available,5.99,40.99,high,low,8,name.com,,,18/08/2026 17:04
+e0be50b1-6f30-47f9-9cf7-555ec3371614,operated.foundation,available,5.99,,medium,low,8,name.com,,,
+2e565626-3b71-4beb-a170-8eaec399cf04,fruiting.foundation,available,5.99,40.99,medium,low,8,name.com,,,18/08/2026 17:04
 e76d2b22-ddd9-4594-8aa7-a90c8b7723a0,postwar.foundation,available,7.48,37.98,medium,low,7,namecheap,,,09/09/2026 00:42
 1a1296b2-a230-4084-bd25-f38d34406748,hodgson.foundation,available,21.7,21.7,medium,low,7,cloudflare,,,28/09/2026 04:09
 7ea82f09-8521-430a-8721-9af2cd293128,supplicant.foundation,available,7.48,37.98,medium,low,10,namecheap,,,11/09/2026 03:28
@@ -571,20 +617,23 @@ dac46acf-58de-4be3-8300-96ee027ac7b1,andean.foundation,available,5.99,40.99,high
 ba0ff176-c20b-4aa2-a870-0ac25a177a96,tical.foundation,available,7.48,37.98,medium,low,5,namecheap,,,21/09/2026 18:48
 6f15a31c-b88b-477e-bcb9-676a6e8e27f7,deputies.foundation,available,6.41,22.39,low,low,8,spaceship,,,29/09/2026 05:37
 6f778a15-28dd-4b07-a94f-f28e37c898fa,caledonian.foundation,available,6.41,22.39,high,low,10,spaceship,,,28/09/2026 21:31
+8611b199-28c9-409b-a24f-3ee608402086,reggio.foundation,available,6.41,22.39,medium,low,6,spaceship,,,30/09/2026 12:52
 e9b65f2e-854c-4f37-b986-d4a62912b153,locomotive.foundation,available,5.99,40.99,high,low,10,name.com,,,24/08/2026 08:48
-29d9e0c5-fbd3-45a8-81ea-9f4aea9f799f,skimpy.foundation,available,7.48,37.98,high,low,6,namecheap,,,10/09/2026 09:36
+29d9e0c5-fbd3-45a8-81ea-9f4aea9f799f,skimpy.foundation,available,7.48,37.98,medium,low,6,namecheap,,,10/09/2026 09:36
 24b7a9cd-5531-4bac-92d6-c0155b25b37b,outspoken.foundation,available,5.99,40.99,high,low,9,name.com,,,11/08/2026 16:45
-06f6548a-fda1-4898-8ef8-f8ab8efa27ec,creatively.foundation,available,11.99,23.01,high,low,10,dynadot,,,28/09/2026 14:25
+06f6548a-fda1-4898-8ef8-f8ab8efa27ec,creatively.foundation,available,11.99,23.01,medium,low,10,dynadot,,,28/09/2026 14:25
 8f5d7996-a724-42cd-ae53-9afa650a4ed3,hank.foundation,available,7.48,37.98,high,low,4,namecheap,,,29/09/2026 19:07
 2d7d5cbf-3366-4a5f-8d84-e9b28ce5a1d9,jilted.foundation,available,5.99,40.99,medium,low,6,name.com,,,22/08/2026 13:23
 ea68dffc-b84d-4c76-b894-a3095cdcb76c,wander.foundation,available,7.48,37.98,high,low,6,namecheap,,,28/09/2026 01:37
 92645911-2296-467a-badd-48b1aad629bb,duckling.foundation,available,7.48,37.98,high,low,8,namecheap,,,25/09/2026 00:17
 ccce7edb-a06d-4b25-9781-4f2c15bbc1c9,eastwards.foundation,available,5.99,40.99,medium,low,9,name.com,,,14/08/2026 23:00
+e9104fb4-da39-4ca9-970f-07c0a05076cc,thinkers.foundation,available,14.99,23.99,medium,low,8,namesilo,,,30/09/2026 16:03
 b0feaf95-161a-4389-be05-532a0f2d0263,villainous.foundation,available,7.48,37.98,medium,low,10,namecheap,,,03/09/2026 14:59
 9f64b2a1-26a0-4cd2-9348-c1c98495dfb8,closed.foundation,available,5.99,40.99,high,low,6,name.com,,,12/08/2026 12:15
 d711661d-fe8e-45e5-b2ac-19aa265d90b8,systems.foundation,premium,118.8,118.8,medium,low,7,namesilo,,,29/09/2026 14:31
 db52e5e1-f330-4518-a8e3-25f0eb98e25e,early.foundation,available,7.48,37.98,high,low,5,namecheap,,,24/09/2026 12:57
 a71dcf7d-8357-4682-8d78-334f018efd65,remove.foundation,available,14.99,23.99,high,low,6,namesilo,,,21/09/2026 14:40
+745c6560-ea06-49dd-9eba-4b9cb0abb884,bestowed.foundation,available,14.99,23.99,medium,low,8,namesilo,,,30/09/2026 14:44
 f908ba53-51f2-467f-a146-ea7300cacb0e,electrons.foundation,available,21.7,21.7,medium,low,9,cloudflare,,,29/09/2026 16:19
 e66a0f25-e4b0-4a03-8fd0-fd80ca4f8f03,expressive.foundation,available,5.99,40.99,high,low,10,name.com,,,17/08/2026 18:50
 378b83e6-7da5-4cfe-9c0a-94a2831c8e02,bishop.foundation,available,14.99,23.99,high,low,6,namesilo,,,23/09/2026 21:47
@@ -592,6 +641,7 @@ cab044b2-0135-4b27-863b-bcc3fa6f932e,dalton.foundation,available,21.7,21.7,high,
 9acc92c0-7be4-4ec1-afa9-eaa9274a8115,uncreative.foundation,available,7.48,37.98,medium,low,10,namecheap,,,12/09/2026 06:24
 11532936-ca56-46c4-8ae6-19b67193d3fb,tents.foundation,available,6.41,22.39,medium,low,5,spaceship,,,29/09/2026 16:28
 e386e0d3-68cb-4240-a923-d058063e544e,gibb.foundation,available,14.99,23.99,medium,low,4,namesilo,,,29/09/2026 22:06
+6a3d8091-c4e3-401d-b344-a067e59d33e7,dcs.foundation,available,6.41,22.39,high,low,3,spaceship,,,30/09/2026 20:17
 a3a0b7a3-e035-49ba-8b82-949200a0ffd7,coastward.foundation,available,7.48,37.98,medium,low,9,namecheap,,,14/09/2026 07:23
 923f2cfb-82bf-4794-bb40-0682f5ede1eb,complexity.foundation,available,14.99,23.99,high,low,10,namesilo,,,24/09/2026 16:49
 33807469-5dbf-4806-af90-7cbb3ce917c2,arapaho.foundation,available,5.99,40.99,medium,low,7,name.com,,,20/09/2026 00:08
@@ -600,9 +650,12 @@ bc4c109e-93d2-43c0-ac4c-d6a31baded3f,luca.foundation,available,14.99,23.99,high,
 aa4249cf-306a-4302-a74d-30684016bbfb,basuto.foundation,available,14.99,23.99,medium,low,6,namesilo,,,22/09/2026 13:01
 2b0caf83-4e68-4d1b-9ecd-4ec339fef930,derisory.foundation,available,5.99,40.99,medium,low,8,name.com,,,14/08/2026 02:56
 3781af9a-afb5-475d-8a2c-6021601bcc1c,puglia.foundation,available,14.99,23.99,high,low,6,namesilo,,,19/09/2026 22:41
+88c9ac9f-2236-40ed-8948-f280aeb8ba67,carpets.foundation,available,42.99,42.99,medium,low,7,godaddy,,,01/10/2026 00:43
 bae91cfb-bc8d-4d07-91be-ff5b8f79d31b,pyloric.foundation,available,5.99,40.99,high,medium,7,name.com,,,09/09/2026 06:52
 e2781518-0521-44a0-9219-b4768b49ea13,altissimo.foundation,available,5.99,40.99,medium,low,9,name.com,,,
 129b76d9-cc36-4b49-bbe2-18f3633ec731,emil.foundation,available,14.99,23.99,high,low,4,namesilo,,,25/09/2026 15:33
+50e514a8-3384-491d-9c0c-585131325450,motorcycles.foundation,premium,102.67,102.67,medium,low,11,spaceship,,,30/09/2026 06:06
+4a5eb2f6-6cff-49fe-a417-5b55bb35002b,bishops.foundation,available,7.48,37.98,low,low,7,namecheap,,,30/09/2026 23:08
 77716cf9-a6cb-4395-a6e0-bf672b329834,vitiate.foundation,available,5.99,40.99,medium,low,7,name.com,,,13/08/2026 02:22
 9f2273ba-41d1-4369-a6cf-5970a9d195df,diss.foundation,available,14.99,23.99,medium,low,4,namesilo,,,17/09/2026 14:55
 939b2cf9-c50a-4a1b-9de3-554d814bf4b7,karnataka.foundation,available,6.41,22.39,high,low,9,spaceship,,,29/09/2026 19:27
@@ -610,7 +663,8 @@ b9bce97f-f47d-45a0-9b53-641491a7df0c,dominance.foundation,available,21.7,21.7,hi
 a99cd04a-251c-48c8-ab75-6a4f25911a89,grandparent.foundation,available,7.48,37.98,high,low,11,namecheap,,,19/09/2026 04:27
 ec7f147c-2c51-4e3e-b8f9-58f76906b15f,trained.foundation,available,21.7,21.7,high,low,7,cloudflare,,,28/09/2026 09:30
 f48a4cfd-6634-4881-ae3e-574d279493e9,cleaning.foundation,premium,118.8,118.8,high,low,8,namesilo,,,12/08/2026 10:25
-2754357b-cf04-4f7b-8f3d-cecb5a5665d7,cuddles.foundation,available,14.99,23.99,high,low,7,namesilo,,,21/09/2026 08:38
+2754357b-cf04-4f7b-8f3d-cecb5a5665d7,cuddles.foundation,available,14.99,23.99,medium,low,7,namesilo,,,21/09/2026 08:38
+b783ebaf-a31b-4804-9c63-8181490614ce,bitches.foundation,available,14.99,23.99,low,low,7,namesilo,,,30/09/2026 06:28
 f99cdd5d-0af0-41ea-a635-e60c1a70aaf1,bros.foundation,available,14.99,23.99,high,low,4,namesilo,,,18/09/2026 13:28
 1e2ab2e4-704f-4422-88c8-94d45763ef7c,puku.foundation,available,7.48,37.98,medium,low,4,namecheap,,,17/09/2026 07:35
 09f20534-b4f0-4688-b452-a79abcee29e5,aerogramme.foundation,available,14.99,23.99,medium,low,10,namesilo,,,17/09/2026 13:05
@@ -620,11 +674,12 @@ f16213d6-bb3c-4947-a08f-05669017095d,gershwin.foundation,available,7.48,37.98,hi
 98ce1066-3672-4bdd-9fd0-86ad3dc62033,primarily.foundation,available,14.99,23.99,medium,low,9,namesilo,,,28/09/2026 13:51
 271ebcf1-86d4-4401-be31-91a09a751f9c,exclusive.foundation,available,5.99,40.99,high,low,9,name.com,,,17/08/2026 16:33
 7e11d00f-561b-4fd8-b013-0143614f9485,debonaire.foundation,available,5.99,40.99,medium,low,9,name.com,,,12/08/2026 05:59
-0e9e054c-2116-4672-821b-2257272a46f8,avocation.foundation,available,7.48,37.98,high,low,9,namecheap,,,21/09/2026 09:37
+983b2e60-ccb8-4908-b04c-5079072f892e,hervey.foundation,available,7.48,37.98,medium,low,6,namecheap,,,30/09/2026 05:29
+0e9e054c-2116-4672-821b-2257272a46f8,avocation.foundation,available,7.48,37.98,medium,low,9,namecheap,,,21/09/2026 09:37
 e9bc51a6-9f35-41a9-88a1-170f4f76ce6c,barrier.foundation,available,5.99,22.66,medium,low,7,porkbun,,,29/09/2026 01:15
 ab292f0c-3075-4c50-9c54-5531bf365494,illustrate.foundation,available,14.99,23.99,high,low,10,namesilo,,,29/09/2026 13:08
 1d3236a5-e14f-401e-8d9f-f5972bb8c039,geologist.foundation,available,14.99,23.99,high,low,9,namesilo,,,29/09/2026 12:39
-dfbcfeb7-db88-4b20-bd0e-f97677219ddb,congested.foundation,available,5.99,40.99,high,low,9,name.com,,,12/08/2026 21:46
+dfbcfeb7-db88-4b20-bd0e-f97677219ddb,congested.foundation,available,5.99,40.99,medium,low,9,name.com,,,12/08/2026 21:46
 80f18ba0-fe0b-481c-92bc-7c2037d25e5c,obligations.foundation,available,6.41,22.39,medium,low,11,spaceship,,,29/09/2026 05:17
 4ed2ec9d-fe7e-421a-bc07-c478424d723c,amphibious.foundation,available,5.99,40.99,medium,low,10,name.com,,,
 0b0a00d9-0311-4b34-aaca-fff50a636d0e,neill.foundation,available,7.48,37.98,medium,low,5,namecheap,,,28/09/2026 23:29
@@ -635,7 +690,7 @@ bf8dfa36-2db3-4efb-ae17-95eaf6dc6a0c,zambian.foundation,available,7.48,37.98,hig
 8234027c-60ba-43ec-bcfd-efee42854f97,engulf.foundation,available,7.48,37.98,medium,low,6,namecheap,,,10/09/2026 19:51
 0b6901ce-6755-4da5-bddf-a8510cea8e46,intimate.foundation,available,14.99,23.99,high,low,8,namesilo,,,25/09/2026 10:27
 d2b79e94-1b1b-4e92-80df-124088a1872f,dimension.foundation,available,14.99,23.99,high,low,9,namesilo,,,21/09/2026 02:17
-00f9f6b6-e2ee-40a5-91b1-17e6b282b5d5,mentality.foundation,available,14.99,23.99,high,low,9,namesilo,,,29/09/2026 06:09
+00f9f6b6-e2ee-40a5-91b1-17e6b282b5d5,mentality.foundation,available,14.99,23.99,medium,low,9,namesilo,,,29/09/2026 06:09
 89bdea79-5c88-480d-b545-e3f136968583,fifteen.foundation,available,14.99,23.99,high,low,7,namesilo,,,21/09/2026 11:44
 74a36b9e-b235-4ab6-95b3-1e119ed3ef0d,ebionite.foundation,available,5.99,40.99,medium,low,8,name.com,,,14/08/2026 23:04
 fcc326c3-c613-420b-9eee-b4b9e149dbe4,hurtful.foundation,available,5.99,40.99,medium,low,7,name.com,,,14/08/2026 00:28
@@ -646,14 +701,16 @@ fcc326c3-c613-420b-9eee-b4b9e149dbe4,hurtful.foundation,available,5.99,40.99,med
 3d87d72f-e141-42b7-ad85-c8dc270bd24a,lullaby.foundation,available,14.99,23.99,high,low,7,namesilo,,,23/09/2026 09:09
 2e1acaed-0bcd-421d-bf89-6ffb4bab5dd4,sticky.foundation,available,5.99,40.99,high,low,6,name.com,,,16/08/2026 07:55
 24548f46-1df0-4d43-908e-ffc19aed11d7,looted.foundation,available,5.99,40.99,medium,low,6,name.com,,,24/08/2026 09:45
-a1dbe415-f51d-4a80-b336-d53ceb78746a,metabolism.foundation,available,6.41,22.39,high,low,10,spaceship,,,29/09/2026 13:25
+a1dbe415-f51d-4a80-b336-d53ceb78746a,metabolism.foundation,available,6.41,22.39,medium,low,10,spaceship,,,29/09/2026 13:25
 bc6daa78-62ba-4f7b-baa5-738fd773b031,unsecured.foundation,available,7.48,37.98,medium,low,9,namecheap,,,12/09/2026 01:41
 76d239d4-b312-4e90-b4f4-4b3563f0ee48,revealed.foundation,available,14.99,23.99,high,low,8,namesilo,,,27/09/2026 22:35
 32adc06b-5118-4baf-b42f-42a6764d8803,bathymetry.foundation,available,14.99,23.99,medium,low,10,namesilo,,,22/09/2026 13:55
 d1eb65b0-7306-4a79-be98-b364ea82fc0e,warily.foundation,available,14.99,23.99,medium,low,6,namesilo,,,16/09/2026 11:20
 383ccc5e-7f4d-4cb6-a39e-cdd92b950672,bcs.foundation,available,6.41,22.39,high,low,3,spaceship,,,29/09/2026 15:15
+3efe3695-85b8-4d0a-9392-da98257239b4,hepburn.foundation,available,14.99,23.99,high,low,7,namesilo,,,30/09/2026 17:34
 f0f412f1-4757-4fc0-912f-41cb287ccbe3,agrologic.foundation,available,5.99,40.99,medium,low,9,name.com,,,
 7ec21023-0c1d-473f-a2e5-f3d60e4a5241,fruity.foundation,available,5.99,40.99,high,low,6,name.com,,,06/08/2026 21:00
+e192d806-172f-4929-b648-f328b82730e1,antimicrobial.foundation,available,14.99,23.99,medium,low,13,namesilo,,,30/09/2026 11:51
 07e71d44-cdf4-42f9-b102-8bf7f5909a4b,withering.foundation,available,5.99,40.99,medium,low,9,name.com,,,
 9e4d4d83-b787-497a-aa12-7792a088e9bb,squares.foundation,available,11.99,23.01,medium,low,7,dynadot,,,28/09/2026 23:48
 caa30e4c-5a54-45be-8a6c-2e6d83b804f9,childish.foundation,available,5.99,40.99,high,low,8,name.com,,,12/08/2026 05:02
@@ -676,8 +733,9 @@ c6a245c4-e31f-4a77-a731-aa83bb1ba813,devoted.foundation,available,14.99,23.99,hi
 122fc5a8-cde4-4e5d-b9fb-2b705d7655cd,slaveless.foundation,available,5.99,40.99,medium,low,9,name.com,,,18/08/2026 14:44
 b3c7d47d-d262-49fd-b53f-1524d19c7a52,documented.foundation,available,14.99,23.99,high,low,10,namesilo,,,22/09/2026 11:37
 e403aab8-849b-4818-9d01-e49679fa7fa5,bain.foundation,available,6.41,22.39,high,low,4,spaceship,,,28/09/2026 07:18
-c82a7db4-6c8b-4784-b71f-0fc336e5fc2a,undoubtedly.foundation,available,5.99,,high,low,11,name.com,,,
+c82a7db4-6c8b-4784-b71f-0fc336e5fc2a,undoubtedly.foundation,available,5.99,,medium,low,11,name.com,,,
 e6bc3cfb-8ee3-4f5e-912f-57d9f665fe7f,nsf.foundation,premium,38.94,38.94,high,low,3,namesilo,,,28/09/2026 10:31
+6624648d-453c-4e07-b437-d69abded6d5d,selena.foundation,available,14.99,23.99,medium,low,6,namesilo,,,30/09/2026 13:21
 0182b521-ac2d-4e7d-a4bb-020f9d54a1e3,cockcrow.foundation,available,7.48,37.98,medium,low,8,namecheap,,,11/09/2026 02:11
 43c307fe-3d36-402e-94d6-713958b18fc9,proceeded.foundation,available,14.99,23.99,medium,low,9,namesilo,,,18/09/2026 01:36
 f5231da8-c9cf-41a5-8a4b-5493768f11e5,amount.foundation,available,14.99,23.99,high,low,6,namesilo,,,29/09/2026 07:57
@@ -685,6 +743,7 @@ a3ebcc98-c27b-45ce-8893-44b07ad0e468,audubon.foundation,available,14.99,23.99,me
 0e7f894d-a34c-4303-b535-07a37102248c,phrenetic.foundation,available,5.99,40.99,medium,low,9,name.com,,,18/08/2026 14:19
 f1d8495b-28b6-4be1-a8ed-00f59a087979,antithesis.foundation,available,14.99,23.99,medium,low,10,namesilo,,,19/09/2026 15:11
 30ff04a5-0fa4-4fd6-849f-375eb30486f1,calculated.foundation,available,5.99,40.99,high,low,10,name.com,,,11/08/2026 13:58
+c25f3277-3ea5-44f6-ad2c-2642c31c483e,displeasure.foundation,available,21.7,21.7,medium,low,11,cloudflare,,,01/10/2026 05:24
 0af46204-3d6e-4bab-b31e-cc3935e3ffdf,septic.foundation,available,5.99,40.99,high,low,6,name.com,,,22/08/2026 04:07
 732fef73-9bb1-482a-99c4-1db8e2fd89d0,haul.foundation,available,14.99,23.99,high,low,4,namesilo,,,27/09/2026 12:17
 e902d865-7f8e-4832-a295-de9e5a3fe196,gleaming.foundation,available,5.99,40.99,high,low,8,name.com,,,
@@ -705,7 +764,9 @@ c6b5c76a-e658-48d8-8094-ec9cb469587d,gregarious.foundation,available,5.99,40.99,
 926ada10-6cff-494a-9645-5a9fa0d56913,acquaintance.foundation,available,11.99,23.01,high,low,12,dynadot,,,28/09/2026 08:20
 df2462d0-d3f4-47b7-b219-89ea0e8fe1cd,nonverbal.foundation,available,7.48,37.98,medium,low,9,namecheap,,,03/09/2026 21:00
 c8952e8a-072c-41d0-bdd0-d7ac8117795a,modeling.foundation,available,14.99,23.99,high,low,8,namesilo,,,24/09/2026 15:25
+bed42b3c-1b92-4222-ae50-a83661a65ca7,greeted.foundation,available,7.48,37.98,medium,low,7,namecheap,,,30/09/2026 06:48
 41b58129-1770-4453-90c5-8220def8a91a,regions.foundation,available,14.99,23.99,high,medium,7,namesilo,,,17/09/2026 14:38
+eaf056f1-2065-4256-94e6-a6e12b3cf641,galleries.foundation,available,21.7,21.7,medium,low,9,cloudflare,,,30/09/2026 07:08
 9f7737b5-777f-428a-962d-af01563eabe0,filmable.foundation,available,5.99,40.99,medium,low,8,name.com,,,18/08/2026 04:23
 0fb4e439-74dc-4a59-bf20-b00f5d01f9f7,aurorean.foundation,available,5.99,40.99,medium,low,8,name.com,,,07/08/2026 18:12
 6a9c547e-94a1-47e5-b0ec-390f9a4882e1,limit.foundation,available,6.41,22.39,high,low,5,spaceship,,,29/09/2026 13:54
@@ -720,14 +781,16 @@ e271e808-5eff-49bd-aca3-2bdc80347f05,certainly.foundation,available,7.48,37.98,h
 f7db6c44-6930-4fc2-9ccc-3ca9a1e0a70f,destroying.foundation,available,6.41,22.39,low,low,10,spaceship,,,27/09/2026 21:23
 23cc1b53-67a7-4da0-a1a8-314cbd689b82,potsdam.foundation,available,6.41,22.39,high,low,7,spaceship,,,27/09/2026 15:23
 cd8b0bfb-0dbd-404f-909b-d0495aa30ec9,breeding.foundation,available,5.99,40.99,high,low,8,name.com,,,11/08/2026 03:36
+5ff77419-0dc2-47cb-9f2b-5c63051e0b4a,lassen.foundation,available,5.99,22.66,medium,low,6,porkbun,,,30/09/2026 05:22
 7e3d3b5b-3f40-4c0e-ab43-b5d8d56d7067,childlike.foundation,available,5.99,40.99,high,low,9,name.com,,,12/08/2026 05:12
+a9890d21-05d8-40e8-8917-8a3ff28a8ece,homotopy.foundation,available,14.99,23.99,medium,low,8,namesilo,,,01/10/2026 01:08
 8763f1da-2d57-4818-b9b0-f83739366c16,octet.foundation,available,5.99,40.99,high,low,5,name.com,,,
 31d6cfce-16cc-446b-b3a5-4253166cdab4,evitable.foundation,available,5.99,40.99,medium,low,8,name.com,,,07/08/2026 22:45
 67d4fe6f-67f1-4e3e-9144-b83ff4b3dea8,heliacal.foundation,available,5.99,40.99,medium,low,8,name.com,,,21/08/2026 06:23
 4d6c1cf8-1177-42d6-9dfd-b4a938a45737,display.foundation,available,14.99,23.99,high,low,7,namesilo,,,28/09/2026 12:59
 0a6fa93b-fe19-4c80-9ad4-91f0c1bc5983,bruckner.foundation,available,14.99,23.99,medium,low,8,namesilo,,,19/09/2026 15:26
-80c7bfae-af7e-43e9-82c3-ed716f0af13e,umbilicus.foundation,available,7.48,37.98,high,low,9,namecheap,,,23/09/2026 06:37
-2f3a7fdb-f191-42e5-a8b7-a423dfdcc074,senegalese.foundation,available,7.48,37.98,high,low,10,namecheap,,,10/09/2026 03:43
+80c7bfae-af7e-43e9-82c3-ed716f0af13e,umbilicus.foundation,available,7.48,37.98,medium,low,9,namecheap,,,23/09/2026 06:37
+2f3a7fdb-f191-42e5-a8b7-a423dfdcc074,senegalese.foundation,available,7.48,37.98,medium,low,10,namecheap,,,10/09/2026 03:43
 be4eddca-3b12-42c8-8608-93891942c1a8,legislative.foundation,available,5.99,,high,low,11,name.com,,,
 1364fff1-22ca-49a5-a59b-44db176bd61b,receiver.foundation,available,14.99,23.99,high,low,8,namesilo,,,28/09/2026 10:40
 e77c1c24-83db-48e3-bca8-489a99f2a163,velvety.foundation,available,7.48,37.98,high,low,7,namecheap,,,13/09/2026 02:00
@@ -735,6 +798,7 @@ e77c1c24-83db-48e3-bca8-489a99f2a163,velvety.foundation,available,7.48,37.98,hig
 eec17199-55d9-4775-8f6b-1fa0bf1430c7,propelling.foundation,available,7.48,37.98,high,low,10,namecheap,,,09/09/2026 03:30
 dbfbf455-0333-4c53-9aa9-cc048a8093b2,closest.foundation,available,21.7,21.7,medium,low,7,cloudflare,,,28/09/2026 14:05
 f0acb4fd-5538-44f6-9b24-8536a4bcaded,linnean.foundation,available,5.99,40.99,medium,low,7,name.com,,,23/08/2026 17:24
+1624aa8b-c15b-4384-a5aa-f6a4f59a1016,upgraded.foundation,available,14.99,23.99,high,low,8,namesilo,,,30/09/2026 16:15
 6718ca13-e483-412e-8d07-4999ae58a385,gustative.foundation,available,5.99,40.99,medium,low,9,name.com,,,20/08/2026 21:08
 eb9a3fbe-ab7f-4b98-ad59-80f234812cac,irresistible.foundation,available,14.99,23.99,high,low,12,namesilo,,,29/09/2026 14:37
 da66f302-5492-46f5-b9b9-8926b6111722,brandt.foundation,available,6.41,22.39,high,low,6,spaceship,,,27/09/2026 11:47
@@ -745,12 +809,14 @@ b598ccf2-4ce2-440d-a45d-5b222403937b,pertinence.foundation,available,14.99,23.99
 f6efbd01-68e7-422b-9ad5-ad146ba0af77,poem.foundation,available,14.99,23.99,high,low,4,namesilo,,,25/09/2026 09:59
 3b8ac542-5cd8-4448-9e4f-445c26be001b,bicycles.foundation,available,7.48,37.98,medium,low,8,namecheap,,,18/09/2026 23:48
 f587a48f-6809-4741-a338-7f1e5c7a581c,biopsy.foundation,available,7.48,37.98,high,low,6,namecheap,,,23/09/2026 18:55
+f11801ea-abd4-4c11-8587-c474cdd19d7f,vocation.foundation,available,7.48,37.98,high,low,8,namecheap,,,30/09/2026 16:34
 4bdf49f4-a1a5-42aa-9d50-43ae6bbcd223,manassas.foundation,available,14.99,23.99,medium,low,8,namesilo,,,29/09/2026 22:10
 aed6a087-cfb9-44a4-8b1a-05a8377cf36d,semiotic.foundation,available,7.48,37.98,medium,low,8,namecheap,,,10/09/2026 03:13
-16d63000-0c07-4c21-b68c-ac6517420d9d,justly.foundation,available,7.48,37.98,high,low,6,namecheap,,,15/09/2026 10:18
+16d63000-0c07-4c21-b68c-ac6517420d9d,justly.foundation,available,7.48,37.98,medium,low,6,namecheap,,,15/09/2026 10:18
+2a1e1ec9-f5c9-45f5-8ccd-b10721973769,converts.foundation,available,14.99,23.99,medium,low,8,namesilo,,,01/10/2026 00:07
 a6a59a81-47c4-4238-89fa-d77a908e214b,quiet.foundation,available,14.99,23.99,high,low,5,namesilo,,,23/09/2026 12:30
 ea162e86-deee-4a5a-82d8-bc2231a56b7a,incubation.foundation,available,5.99,40.99,high,low,10,name.com,,,11/08/2026 06:10
-9bbfbbe7-c8e3-4651-ab19-9f31a057db7e,snicker.foundation,available,5.99,,high,low,7,name.com,,,
+9bbfbbe7-c8e3-4651-ab19-9f31a057db7e,snicker.foundation,available,14.99,23.99,medium,low,7,namesilo,,,30/09/2026 11:19
 c09248b5-1980-4c7c-8294-dbea68a6cacd,nooky.foundation,available,5.99,40.99,low,low,5,name.com,,,18/08/2026 17:29
 53a24054-36d5-435e-90c0-6e2786d65e68,slavery.foundation,available,7.48,37.98,high,low,7,namecheap,,,10/09/2026 10:30
 96d9a7c3-7cdd-43a6-b70d-4b78b788daea,valorous.foundation,available,7.48,37.98,medium,low,8,namecheap,,,13/09/2026 00:57
@@ -761,24 +827,26 @@ cca27036-58bf-4039-827d-cf6f0a4f7f0a,slanting.foundation,available,5.99,40.99,me
 60dfd7d9-a781-42e9-bfbc-594a0bab89a8,loosely.foundation,available,6.41,22.39,medium,low,7,spaceship,,,28/09/2026 13:33
 5dd85883-4569-4875-be45-36a9cef314ed,crispy.foundation,available,5.99,40.99,high,low,6,name.com,,,13/08/2026 07:23
 c9de5c2a-1cda-4dee-ba5b-bd951455a7fe,landon.foundation,available,14.99,23.99,medium,low,6,namesilo,,,28/09/2026 22:03
-ed799e9f-8dee-43eb-a852-373cbeb488d9,condemn.foundation,available,5.99,,medium,low,7,name.com,,,
+ed799e9f-8dee-43eb-a852-373cbeb488d9,condemn.foundation,available,6.41,22.39,medium,low,7,spaceship,,,30/09/2026 10:53
 2be307f7-40ad-459c-9223-ea3975ad3382,shirts.foundation,available,14.99,23.99,medium,low,6,namesilo,,,27/09/2026 11:13
 3ad13601-a3c1-4718-954c-1ce43677753b,mediterranean.foundation,premium,38.94,38.94,high,low,13,namesilo,,,29/09/2026 08:26
-511f526f-40bb-4c84-bd0b-c808b397c1da,irene.foundation,available,6.41,22.39,high,low,5,spaceship,,,28/09/2026 21:21
+511f526f-40bb-4c84-bd0b-c808b397c1da,irene.foundation,available,6.41,22.39,medium,low,5,spaceship,,,28/09/2026 21:21
+8869ac8d-2be9-49f6-aff5-291fed5cf225,ige.foundation,available,14.99,23.99,medium,low,3,namesilo,,,01/10/2026 02:40
 f43e334c-f1a0-4235-9734-2dcf7bdb4281,adventive.foundation,available,5.99,40.99,medium,low,9,name.com,,,
-3df11232-5ab2-4a73-a990-421ff691824d,reunion.foundation,available,5.99,,high,medium,7,name.com,,,
-71f17733-658c-444a-9828-f598487b66e4,dod.foundation,available,11.99,23.01,high,low,3,dynadot,,,30/09/2026 01:18
+3df11232-5ab2-4a73-a990-421ff691824d,reunion.foundation,available,7.48,37.98,high,medium,7,namecheap,,,30/09/2026 10:12
+71f17733-658c-444a-9828-f598487b66e4,dod.foundation,available,11.99,23.01,medium,low,3,dynadot,,,30/09/2026 01:18
 d4fdaafc-9253-41ee-b965-6faa019e12f0,semi.foundation,available,14.99,23.99,high,low,4,namesilo,,,20/09/2026 11:18
 04158916-bd24-4658-9e5b-a6cd26e56845,crochet.foundation,available,14.99,23.99,high,low,7,namesilo,,,24/09/2026 19:40
 4caa88ca-4666-4dbd-9d8f-ea996847030e,insomnia.foundation,available,6.41,22.39,high,low,8,spaceship,,,29/09/2026 13:08
+cc0ec3f1-2918-4d72-aee9-ef8ab25acb71,riverdale.foundation,available,14.99,23.99,high,low,9,namesilo,,,30/09/2026 05:42
 f1b70477-8b55-4ee3-ab47-24bb78b5a916,unfeasible.foundation,available,5.99,40.99,medium,low,10,name.com,,,21/08/2026 22:56
 2b8c141e-2ea2-40a2-81e5-fb09f6100373,greenwing.foundation,available,14.99,23.99,medium,low,9,namesilo,,,19/09/2026 02:56
 e493cac5-dcb8-4837-b50f-1acfd1f9bd64,qualities.foundation,available,6.41,22.39,medium,low,9,spaceship,,,28/09/2026 08:30
 3658de1e-f977-43ac-8c79-f87bd40afe75,scores.foundation,available,7.48,37.98,high,low,6,namecheap,,,14/09/2026 23:23
-0ccc60fa-c04a-4c4c-903f-f3c2ede1935b,mincing.foundation,available,5.99,40.99,high,low,7,name.com,,,13/08/2026 15:43
+0ccc60fa-c04a-4c4c-903f-f3c2ede1935b,mincing.foundation,available,5.99,40.99,medium,low,7,name.com,,,13/08/2026 15:43
 4ce8b0f2-7861-43bc-869b-65b2d0e05300,fracture.foundation,available,11.99,23.01,high,low,8,dynadot,,,28/09/2026 01:53
 07bd830b-68ad-43c4-9d0c-baf58ad47db5,ingress.foundation,available,5.99,40.99,medium,low,7,name.com,,,22/08/2026 01:52
-01e1fccf-b8b7-47e6-98aa-77491f559837,blackfoot.foundation,available,14.99,23.99,high,low,9,namesilo,,,24/09/2026 02:17
+01e1fccf-b8b7-47e6-98aa-77491f559837,blackfoot.foundation,available,14.99,23.99,medium,low,9,namesilo,,,24/09/2026 02:17
 ffad7403-0a50-4c5a-9bdb-55f2ef2248d7,nonviable.foundation,available,7.48,37.98,medium,low,9,namecheap,,,03/09/2026 21:02
 a586a9b0-bb4e-44a9-90dc-e4dd0b08768b,acervate.foundation,available,5.99,40.99,medium,low,8,name.com,,,
 9112a521-9915-4179-934f-631227e7b9a4,dermic.foundation,available,5.99,40.99,medium,low,6,name.com,,,14/08/2026 03:09
@@ -786,10 +854,10 @@ a586a9b0-bb4e-44a9-90dc-e4dd0b08768b,acervate.foundation,available,5.99,40.99,me
 a2161370-6ad6-4f3f-8644-5e9bfb363bc0,recurring.foundation,available,7.48,37.98,high,low,9,namecheap,,,09/09/2026 11:58
 c7f1160a-4dc0-4ece-8043-43d0d1d86df0,pickled.foundation,available,5.99,40.99,high,medium,7,name.com,,,08/09/2026 19:30
 01c10cd2-85f5-44a5-ae0f-d5202ae443a9,delegate.foundation,available,7.48,37.98,high,low,8,namecheap,,,24/09/2026 21:30
-2e3bf63c-0743-4ae4-8cf3-bf4e007e20b2,wriggling.foundation,available,7.48,37.98,high,low,9,namecheap,,,13/09/2026 13:41
+2e3bf63c-0743-4ae4-8cf3-bf4e007e20b2,wriggling.foundation,available,7.48,37.98,medium,low,9,namecheap,,,13/09/2026 13:41
 df04ec93-6f5f-4185-b044-c8899e629d7b,derived.foundation,available,5.99,40.99,high,low,7,name.com,,,14/08/2026 03:07
 8478ef0f-bb19-4966-a325-27d33656c105,rooney.foundation,available,14.99,23.99,high,low,6,namesilo,,,27/09/2026 07:48
-0daeb6a2-90c6-4aba-9a2b-d730e3693ede,prolate.foundation,available,5.99,40.99,high,low,7,name.com,,,15/08/2026 18:52
+0daeb6a2-90c6-4aba-9a2b-d730e3693ede,prolate.foundation,available,5.99,40.99,medium,low,7,name.com,,,15/08/2026 18:52
 55f589ed-4189-45fe-9a73-53657250405c,gallant.foundation,available,5.99,40.99,high,low,7,name.com,,,12/08/2026 06:16
 cc96e059-fe6e-41bd-bba5-bc87c13d2390,rifles.foundation,available,14.99,23.99,low,low,6,namesilo,,,28/09/2026 08:46
 90a41f56-879d-4372-a959-c9823f3efcf2,undimmed.foundation,available,7.48,37.98,medium,low,8,namecheap,,,12/09/2026 08:06
@@ -804,28 +872,30 @@ d1a0d272-2f40-4991-a8a0-b8045c35820a,broderick.foundation,available,6.41,22.39,h
 8b53ff39-06a0-491b-835c-cbb03db9f366,antedon.foundation,available,14.99,23.99,medium,low,7,namesilo,,,19/09/2026 12:48
 00407efd-0679-4b4f-ad4f-bacdf8a16394,serious.foundation,available,7.48,37.98,high,low,7,namecheap,,,24/09/2026 23:04
 6a7ff010-f8c3-404e-99fd-9c31492b8660,avian.foundation,available,5.99,40.99,high,low,5,name.com,,,07/08/2026 23:17
-1af5f966-c61e-4de6-b9bd-3d18a36291aa,vibrate.foundation,available,5.99,,high,low,7,name.com,,,
-9881f57c-d0d5-4ba2-add7-7436b0cde11e,motions.foundation,available,14.99,23.99,high,low,7,namesilo,,,18/09/2026 00:16
+1af5f966-c61e-4de6-b9bd-3d18a36291aa,vibrate.foundation,available,7.48,37.98,high,low,7,namecheap,,,30/09/2026 20:16
+0bbcaf9f-83c2-4c0a-be05-7025c3c9e736,bnp.foundation,available,6.41,22.39,high,low,3,spaceship,,,01/10/2026 04:46
+9881f57c-d0d5-4ba2-add7-7436b0cde11e,motions.foundation,available,14.99,23.99,medium,low,7,namesilo,,,18/09/2026 00:16
 d4732dc7-2e01-4c2a-86f2-632ca5572091,obscurely.foundation,available,7.48,37.98,medium,low,9,namecheap,,,15/09/2026 17:13
 435ab312-91cb-47b6-839d-e18fd0372a1c,erstwhile.foundation,available,5.99,40.99,medium,low,9,name.com,,,17/08/2026 13:05
 587f3f8d-ba88-40e6-910e-309191cbb3a1,brumous.foundation,available,5.99,40.99,medium,low,7,name.com,,,11/08/2026 06:49
+4078db9b-0957-4416-b2f1-8caca8d6f191,goggles.foundation,available,11.99,23.01,high,low,7,dynadot,,,30/09/2026 17:29
 716376cd-0e5e-4f02-ae6e-2de110c22f69,reflexion.foundation,available,7.48,37.98,high,low,9,namecheap,,,03/09/2026 11:28
 86f54623-96a0-4f74-be77-f6347be7ad3b,gently.foundation,available,6.41,22.39,high,low,6,spaceship,,,28/09/2026 14:58
 89841632-7a0d-4ed4-a255-4fdbf82ccc58,analgesic.foundation,available,5.99,40.99,high,low,9,name.com,,,
-0b7bc468-6e68-4f5d-8589-ac5ba654fb0a,cordate.foundation,available,5.99,40.99,high,low,7,name.com,,,13/08/2026 00:50
-457d62b1-ee24-40b4-ae63-e3d3671a6126,delaney.foundation,available,6.41,22.39,high,low,7,spaceship,,,28/09/2026 04:06
+0b7bc468-6e68-4f5d-8589-ac5ba654fb0a,cordate.foundation,available,5.99,40.99,medium,low,7,name.com,,,13/08/2026 00:50
+457d62b1-ee24-40b4-ae63-e3d3671a6126,delaney.foundation,available,6.41,22.39,medium,low,7,spaceship,,,28/09/2026 04:06
 0e2f22ec-47c3-47c8-bd2e-972f9bf3f118,backup.foundation,available,14.99,23.99,high,low,6,namesilo,,,28/09/2026 06:59
 b8de13a6-3cae-4986-aa73-1bf3dc2f99b9,very.foundation,available,7.48,37.98,high,low,4,namecheap,,,27/09/2026 09:52
 ce65fce8-4cf0-491a-9e6b-c1a8d61de1cd,lamplit.foundation,available,5.99,40.99,medium,low,7,name.com,,,22/08/2026 19:11
 7b2e6120-e34e-42e6-beaa-ac297e43c372,unscathed.foundation,available,5.99,40.99,high,low,9,name.com,,,12/09/2026 12:03
 bbaef04f-e314-45b9-8128-291ec1d043f3,inscribe.foundation,available,14.99,23.99,high,low,8,namesilo,,,21/09/2026 06:39
-8c704d18-60f4-42a6-b405-1c0a418fed9b,weekends.foundation,available,7.48,37.98,high,low,8,namecheap,,,20/09/2026 22:23
-1e6dc3ec-7840-4934-b259-770cb43e04a3,wishing.foundation,available,5.99,,high,low,7,name.com,,,
+8c704d18-60f4-42a6-b405-1c0a418fed9b,weekends.foundation,available,7.48,37.98,medium,low,8,namecheap,,,20/09/2026 22:23
+1e6dc3ec-7840-4934-b259-770cb43e04a3,wishing.foundation,available,21.7,21.7,high,low,7,cloudflare,,,30/09/2026 14:46
 4a0d1ed8-de83-46a9-9cf0-2f9798f44bc9,appeal.foundation,available,6.41,22.39,high,low,6,spaceship,,,28/09/2026 21:53
 e734ef45-9483-4d03-b5de-b46eb4cb8357,medicinal.foundation,available,5.99,40.99,high,low,9,name.com,,,24/08/2026 19:01
 6f67fd83-a344-48ab-88ac-579203221791,split.foundation,available,14.99,23.99,high,low,5,namesilo,,,24/09/2026 11:30
 3e571720-5340-4edb-b9ef-2dfdd8ee634e,polytonal.foundation,available,7.48,37.98,medium,low,9,namecheap,,,08/09/2026 23:33
-321741c3-f771-48ed-8b40-39477295dfb8,watching.foundation,available,5.99,,high,low,8,name.com,,,
+321741c3-f771-48ed-8b40-39477295dfb8,watching.foundation,available,14.99,23.99,high,low,8,namesilo,,,30/09/2026 06:02
 dc43e949-81df-4d82-a26d-a5039c74a846,mugwump.foundation,available,5.99,40.99,medium,low,7,name.com,,,22/08/2026 02:43
 397dc587-6dbd-49f4-be8f-e685ef9634c0,hooper.foundation,available,7.48,37.98,medium,low,6,namecheap,,,29/09/2026 02:55
 17965095-e151-4f69-9653-9edd260bec79,defaulted.foundation,available,14.99,23.99,low,low,9,namesilo,,,21/09/2026 07:28
@@ -835,7 +905,7 @@ de5ddffa-ebdf-400a-9079-6623d3e0651c,toilets.foundation,available,21.7,21.7,low,
 12f24dbc-2e22-43af-a992-456dba4e0ed9,upcoming.foundation,available,5.99,40.99,high,low,8,name.com,,,06/08/2026 08:39
 eea9d5f3-7bb8-4ea0-ad1a-ecc5fdbfa89e,ruhr.foundation,premium,118.8,118.8,medium,low,4,namesilo,,,29/09/2026 02:04
 2351be92-47ad-4486-9926-0fbcd89a5e36,menzies.foundation,available,14.99,23.99,medium,low,7,namesilo,,,29/09/2026 15:52
-e85d9f87-1b73-4e6d-8f70-9a8b6ca412c7,muskegon.foundation,available,14.99,23.99,high,low,8,namesilo,,,29/09/2026 10:06
+e85d9f87-1b73-4e6d-8f70-9a8b6ca412c7,muskegon.foundation,available,14.99,23.99,medium,low,8,namesilo,,,29/09/2026 10:06
 f5b59746-6db4-4b51-80fa-cda0898b1396,treat.foundation,available,14.99,23.99,high,low,5,namesilo,,,24/09/2026 04:23
 74630798-bdcd-48e4-b1fd-1f8e8e541d06,musical.foundation,available,7.48,37.98,high,low,7,namecheap,,,25/09/2026 19:12
 df3f853f-4652-44ea-9da3-0bcc6d20c532,maroon.foundation,available,5.99,40.99,high,low,6,name.com,,,11/08/2026 06:33
@@ -844,7 +914,8 @@ ec20fe12-4ea6-4c1a-af56-c685ab6fa6fb,pixilated.foundation,available,5.99,40.99,l
 d39aa8f5-11ad-4bc6-ace2-4eb669374c3e,introduction.foundation,available,5.99,,high,low,12,name.com,,,
 5be156b4-05bb-465e-9dff-319e05bee019,maniacal.foundation,available,5.99,40.99,medium,low,8,name.com,,,24/08/2026 14:55
 15b156af-9a07-4ab7-a4bb-2b1fb2cbcbb1,horrifying.foundation,available,5.99,40.99,medium,low,10,name.com,,,18/08/2026 15:42
-3eb43580-4d77-4822-82ae-692bd7fc9795,advertising.foundation,premium,72.57,72.57,high,low,11,porkbun,,,28/09/2026 04:51
+a972ccc0-ca31-4858-b58a-eeb50b4e9d37,slippers.foundation,available,14.99,23.99,medium,low,8,namesilo,,,30/09/2026 07:13
+3eb43580-4d77-4822-82ae-692bd7fc9795,advertising.foundation,premium,78.54,78.54,high,low,11,namesilo,,,01/10/2026 02:54
 47f510b2-154c-42c1-895d-11d33e201455,bestowal.foundation,available,14.99,23.99,high,low,8,namesilo,,,23/09/2026 10:39
 52108704-81c2-4afc-a0ea-91b098483b35,meteoric.foundation,available,5.99,40.99,high,low,8,name.com,,,24/08/2026 21:53
 10efe1b5-accb-4355-a469-179358bc3fb2,phial.foundation,available,14.99,23.99,medium,low,5,namesilo,,,18/09/2026 23:47
@@ -854,7 +925,7 @@ dce00a10-ea80-4b63-9cd7-66567cda4c42,stand.foundation,available,6.41,22.39,high,
 ced49a09-82ee-46b2-aef5-9d0e43ea7922,furtive.foundation,available,5.99,40.99,medium,low,7,name.com,,,08/08/2026 06:32
 b487c122-852e-4c1a-9ac4-1fb969823578,alum.foundation,available,5.99,40.99,high,low,4,name.com,,,20/08/2026 17:49
 64e87429-16c4-48d9-a492-e72757d8835e,treated.foundation,available,7.48,37.98,high,low,7,namecheap,,,11/09/2026 10:52
-7c94a961-39c3-4cff-8472-c561e1a46e34,crafts.foundation,available,14.99,23.99,high,low,6,namesilo,,,19/09/2026 02:50
+7c94a961-39c3-4cff-8472-c561e1a46e34,crafts.foundation,available,14.99,23.99,medium,low,6,namesilo,,,19/09/2026 02:50
 f3d0f81f-56f2-497f-9de6-35c4ff13399e,randomly.foundation,available,7.48,37.98,medium,low,8,namecheap,,,13/09/2026 20:35
 c7bfe229-745d-4ccb-857c-9afcfbd1d6b2,rarer.foundation,available,14.99,23.99,medium,low,5,namesilo,,,20/09/2026 08:12
 20a90b4c-2fca-4418-9f75-6985375b715c,scored.foundation,available,6.41,22.39,medium,low,6,spaceship,,,27/09/2026 23:20
@@ -868,6 +939,7 @@ d280ebea-30ca-46c2-94ce-06b048a7328b,shakedown.foundation,available,7.48,37.98,m
 f2a24941-7de6-49f9-a394-92e5ddf9aa7b,rebuilt.foundation,available,21.7,21.7,high,low,7,cloudflare,,,29/09/2026 16:05
 5af19c02-2e67-4d83-860e-adb1d9f995e5,creepy.foundation,available,14.99,23.99,high,low,6,namesilo,,,24/09/2026 01:42
 a4ff6465-745f-4bfb-9878-21913bbb29a4,bengali.foundation,premium,78.54,78.54,medium,low,7,namesilo,,,09/08/2026 14:29
+c48ad19d-27a5-44fc-bbff-30a8361293e3,spokesperson.foundation,available,6.41,22.39,high,low,12,spaceship,,,30/09/2026 14:32
 ed0cd11d-96e9-40d3-b783-903319a15bb6,come.foundation,available,6.41,22.39,high,low,4,spaceship,,,28/09/2026 09:23
 2cb123bb-03cb-4098-8c1a-0a3b4e15b52f,cimmerian.foundation,available,5.99,40.99,medium,low,9,name.com,,,12/08/2026 08:11
 40915636-1e12-4b7b-bad2-a7ca8c6c099a,aquatics.foundation,available,14.99,23.99,high,low,8,namesilo,,,19/09/2026 23:08
@@ -875,16 +947,18 @@ ed0cd11d-96e9-40d3-b783-903319a15bb6,come.foundation,available,6.41,22.39,high,l
 6cf4de8b-09b2-4913-a7ed-edb49e887e57,baud.foundation,available,14.99,23.99,medium,low,4,namesilo,,,22/09/2026 16:32
 9b926cf6-4f3a-4d65-ab00-fea563f0610c,untired.foundation,available,7.48,37.98,low,low,7,namecheap,,,12/09/2026 21:29
 8aa54d7d-b897-4946-8e47-ee3fd693af76,secured.foundation,available,5.99,,high,low,7,name.com,,,
-01773ee9-694b-43af-a64d-2d306b47529e,maximising.foundation,available,5.99,40.99,high,low,10,name.com,,,24/08/2026 17:58
+01773ee9-694b-43af-a64d-2d306b47529e,maximising.foundation,available,5.99,40.99,medium,low,10,name.com,,,24/08/2026 17:58
 eba771ee-9202-4d05-b194-ac4d66e02ca0,delicacy.foundation,available,5.99,40.99,high,low,8,name.com,,,13/08/2026 15:51
 d7670ff6-a172-42b6-8ff7-0f8ce367715f,jet.foundation,resell,,,high,medium,3,Dynadot Inc,12/01/2026 06:38,12/01/2027 06:38,26/09/2026 07:00
 3db57536-a467-49a2-b9ed-f7a0a4eacbac,palpitant.foundation,available,7.48,37.98,medium,low,9,namecheap,,,05/09/2026 00:17
 91cb83ee-0df9-44b2-8de9-63c607cc2ac4,ioc.foundation,available,7.48,37.98,high,low,3,namecheap,,,28/09/2026 07:36
 c9de1ebe-c14e-4d35-b583-1dc17202a1b0,machinist.foundation,available,14.99,23.99,high,low,9,namesilo,,,19/09/2026 17:14
 d448076c-971c-40b6-b85e-9f86ae41acca,pilose.foundation,available,7.48,37.98,high,medium,6,namecheap,,,08/09/2026 19:39
-1abeea46-60e6-4409-af13-78d0272fa5bc,tactful.foundation,available,5.99,40.99,high,low,7,name.com,,,22/08/2026 15:49
+7c22f8f3-67e6-4a3b-b186-deb29bbc4ebe,savages.foundation,available,21.7,21.7,low,low,7,cloudflare,,,30/09/2026 06:49
+1abeea46-60e6-4409-af13-78d0272fa5bc,tactful.foundation,available,5.99,40.99,medium,low,7,name.com,,,22/08/2026 15:49
 a85b25b2-2444-4aa0-b643-4bd01348e55c,brabant.foundation,available,6.41,22.39,high,low,7,spaceship,,,29/09/2026 08:28
 b2856ae4-138c-4006-b737-0e9732c78785,untracked.foundation,available,7.48,37.98,medium,low,9,namecheap,,,08/09/2026 10:31
+2ffece74-4d19-483a-bdcc-9a22785b8169,dianne.foundation,available,6.41,22.39,medium,low,6,spaceship,,,30/09/2026 05:00
 ecf6aaa4-9f4a-4add-9a5f-d032d5ef9f6a,branchless.foundation,available,5.99,40.99,medium,low,10,name.com,,,11/08/2026 02:21
 234df223-3607-41c0-acb5-aa0c14d6a428,gertrude.foundation,available,6.41,22.39,medium,low,8,spaceship,,,28/09/2026 21:50
 04757965-d06f-4c22-a372-476fb548ca54,afoot.foundation,available,5.99,40.99,medium,low,5,name.com,,,
@@ -894,6 +968,7 @@ ae400bc3-8971-473f-a070-d31c105f3519,replacements.foundation,available,14.99,23.
 fee279d5-2c16-4f3c-ad1c-99641d97c3bd,ethel.foundation,available,14.99,23.99,high,low,5,namesilo,,,28/09/2026 07:21
 f80036d2-c2b9-4c23-83f4-0d728432fd70,defend.foundation,available,14.99,23.99,high,low,6,namesilo,,,23/09/2026 13:40
 e39f3c0c-54bd-409c-a9c1-4a985a4a0187,antilog.foundation,available,14.99,23.99,medium,low,7,namesilo,,,19/09/2026 14:38
+612975a6-80fa-4b4d-8f56-c40c2bad306e,toothpaste.foundation,available,5.99,22.66,high,low,10,porkbun,,,30/09/2026 11:11
 61e4e20f-9dfc-4e78-a066-c08b57ee0704,upbound.foundation,available,7.48,37.98,medium,low,7,namecheap,,,12/09/2026 23:02
 72098d5f-456a-49cd-a6e4-5368eca52e99,telly.foundation,available,14.99,23.99,high,low,5,namesilo,,,24/09/2026 06:44
 86f252a3-bf39-4bd4-af3f-971f1e4f9b8f,airlock.foundation,available,7.48,37.98,high,low,7,namecheap,,,17/09/2026 22:33
@@ -904,9 +979,8 @@ e5cbe358-b8fb-4eed-a850-27f639bb2e22,tenderness.foundation,available,14.99,23.99
 e9f0aa98-67ef-481a-aee0-54d9bd4d8a5b,beroe.foundation,available,7.48,37.98,medium,low,5,namecheap,,,23/09/2026 10:02
 6b5ce214-2159-4360-804d-786ba73be67b,blythe.foundation,available,6.41,22.39,high,low,6,spaceship,,,29/09/2026 23:30
 0c4d72f8-b8b6-46a7-9f8f-dcb0518aa445,barring.foundation,available,5.99,22.66,medium,low,7,porkbun,,,29/09/2026 01:15
-f1f9915e-b28e-46f3-8d63-56f3b75b7008,muffin.foundation,available,5.99,,high,low,6,name.com,,,
 d6bee895-fb1e-4473-9e1f-b5df7cdf0271,prostate.foundation,premium,78.54,78.54,high,low,8,namesilo,,,09/09/2026 03:47
-d077ce7a-fe89-4c0f-931a-59108ff0219b,astound.foundation,available,5.99,,high,low,7,name.com,,,
+d077ce7a-fe89-4c0f-931a-59108ff0219b,astound.foundation,available,7.48,37.98,high,low,7,namecheap,,,30/09/2026 15:00
 6cac587a-0eb6-4319-87bc-550b8c5d9fae,postponed.foundation,available,6.41,22.39,medium,low,9,spaceship,,,29/09/2026 08:56
 59e7e24b-579c-4fc6-af3f-a68a77639a3f,dirt.foundation,available,14.99,23.99,high,low,4,namesilo,,,24/09/2026 10:53
 feb6bd15-4714-4a78-b96e-0d2595e6a915,calves.foundation,available,5.99,22.66,medium,low,6,porkbun,,,29/09/2026 23:18
@@ -922,80 +996,6 @@ fcc0231c-81fc-4f27-bca5-40376eb8f295,wavy.foundation,available,5.99,40.99,high,l
 7755f522-8708-4fe4-8d99-e3374e2dc8a9,thessaloniki.foundation,available,6.41,22.39,medium,low,12,spaceship,,,29/09/2026 15:14
 742329e2-ce01-4bf4-9fa6-67042ddb023c,lovingness.foundation,available,5.99,40.99,high,low,10,name.com,,,11/08/2026 19:18
 77655c6c-2e9b-4693-80ae-fd4d2be20fe1,bilby.foundation,available,14.99,23.99,medium,low,5,namesilo,,,23/09/2026 15:40
-173b2fee-925d-418a-9e6c-231e4ff7c0d7,lifetime.foundation,available,14.99,23.99,high,low,8,namesilo,,,29/09/2026 16:16
+173b2fee-925d-418a-9e6c-231e4ff7c0d7,lifetime.foundation,available,14.99,23.99,medium,low,8,namesilo,,,29/09/2026 16:16
 a91ee3af-b2b6-49d4-b5a9-70b94d66f89d,marihuana.foundation,available,14.99,23.99,high,low,9,namesilo,,,29/09/2026 06:39
 5ca885a3-7e33-4e3f-8363-4e9991fda9fa,acerb.foundation,available,5.99,40.99,medium,low,5,name.com,,,
-2198677c-bd65-4987-9d47-8f4fd302e482,tehran.foundation,available,7.48,37.98,high,low,6,namecheap,,,25/09/2026 22:03
-d063fb53-5d2c-4fc2-b239-886845db92bb,betrayal.foundation,available,14.99,23.99,high,low,8,namesilo,,,23/09/2026 11:24
-e6ef0ec4-9388-4e85-b0cd-c96fef234505,ergotic.foundation,available,5.99,40.99,medium,low,7,name.com,,,17/08/2026 12:13
-28b5f62d-3fe0-4eba-898a-d85fc8840e9e,unjust.foundation,available,5.99,40.99,medium,low,6,name.com,,,22/08/2026 03:49
-560061e4-c5e0-4f9c-a2f2-47a19d332a96,blister.foundation,available,14.99,23.99,high,low,7,namesilo,,,24/09/2026 05:20
-7c5a79ee-df32-4fba-afb7-0d0074f920a0,posts.foundation,available,14.99,23.99,medium,low,5,namesilo,,,19/09/2026 00:49
-8d759efb-1fa7-4929-b18c-cd317e0f172e,dropped.foundation,available,7.48,37.98,high,low,7,namecheap,,,25/09/2026 20:16
-24b648bc-634d-47c0-88bf-090f79515864,fantasies.foundation,available,21.7,21.7,low,low,9,cloudflare,,,28/09/2026 23:52
-0fdbdab3-70a5-4050-9b7c-b68b7fc507c5,forgetting.foundation,available,5.99,,high,low,10,name.com,,,
-9865a919-e8b2-4cb9-a4f2-2c4ea59cabc7,ships.foundation,available,14.99,23.99,medium,low,5,namesilo,,,18/09/2026 14:07
-6415e13d-e620-4b65-b4b1-e7b980314094,liaison.foundation,available,7.48,37.98,high,low,7,namecheap,,,17/09/2026 14:03
-03e1735e-22b0-4ddc-958f-ffdaafb61fad,turds.foundation,available,14.99,23.99,low,low,5,namesilo,,,18/09/2026 11:32
-c4749f0a-9aa8-42c7-a154-c7124acd4819,knowledgeable.foundation,available,14.99,23.99,high,low,13,namesilo,,,29/09/2026 08:34
-229c54c3-df57-4cd7-9ba2-b35d24b5b777,mega.foundation,resell,,,high,medium,4,"GoDaddy.com, LLC",26/01/2024 17:16,26/01/2027 17:16,26/09/2026 07:30
-15262846-6e25-4369-9349-a735fe07a9c5,scoffing.foundation,available,5.99,40.99,medium,low,8,name.com,,,22/08/2026 12:43
-09752b17-aeed-4145-b19b-b3f2aa1916d4,vanished.foundation,available,7.48,37.98,medium,low,8,namecheap,,,13/09/2026 01:09
-00ad776b-f746-4b09-ba84-cad44d3aa972,shut.foundation,available,5.99,40.99,high,low,4,name.com,,,12/08/2026 12:10
-00ba6557-b6fa-4ba2-a9a1-9866c262b3c0,punkey.foundation,available,7.48,37.98,medium,low,6,namecheap,,,23/09/2026 22:34
-182eecb2-64f0-42f0-93be-2547d4bb016e,otiose.foundation,available,5.99,40.99,medium,low,6,name.com,,,17/08/2026 20:56
-30decdb6-c9b8-4f6e-b05b-e91e01c6d17f,cream.foundation,premium,34.36,34.36,high,low,5,spaceship,,,28/09/2026 04:30
-85ca7eb6-7ab2-4bf1-bc85-050827777780,shake.foundation,available,14.99,23.99,high,low,5,namesilo,,,25/09/2026 06:52
-4a944e19-d6f1-4544-84b1-ac2420139549,sorcerous.foundation,available,5.99,40.99,medium,low,9,name.com,,,24/08/2026 13:00
-dad86f2a-9ffc-495a-8aa0-aaa2289323d7,gilbert.foundation,premium,78.54,78.54,high,low,7,namesilo,,,18/08/2026 23:22
-84eb8695-c0a1-4108-93a6-8007ae8d4240,negro.foundation,available,7.48,37.98,medium,low,5,namecheap,,,03/09/2026 15:10
-6d281230-71f3-4a2c-a8d5-f0c81548d30b,meters.foundation,available,14.99,23.99,medium,low,6,namesilo,,,28/09/2026 05:01
-33e8b90f-9b7c-4c77-a99d-bb3d2823fe35,scandent.foundation,available,7.48,37.98,medium,low,8,namecheap,,,09/09/2026 22:32
-a9b320ab-67d2-4ff1-937a-7f0e1c471df4,lxx.foundation,available,5.99,40.99,medium,low,3,name.com,,,
-7a8b9a31-3287-495b-9fa4-32572136e8a8,balanchine.foundation,available,7.48,37.98,high,low,10,namecheap,,,21/09/2026 20:54
-5910a806-9b56-4008-b2c8-c71f0e18842d,treasured.foundation,available,5.99,40.99,high,low,9,name.com,,,12/08/2026 04:21
-1cbb6bd2-eae9-447e-9d8a-09b567d6e156,confide.foundation,available,5.99,,high,low,7,name.com,,,
-a26ba6ac-db27-4b54-825b-352e6d9a61ac,uncrowned.foundation,available,5.99,40.99,medium,low,9,name.com,,,13/08/2026 08:36
-8685deb9-7126-438e-8833-67698c3d2a66,ferocious.foundation,available,5.99,40.99,medium,low,9,name.com,,,18/08/2026 02:05
-e8a35aa4-e96b-4aba-b79c-0446b6c5a19e,chatham.foundation,available,14.99,23.99,medium,low,7,namesilo,,,25/09/2026 15:25
-cfa35b81-d99e-4fb0-b98a-df48ca1d161d,pulled.foundation,available,5.99,,high,low,6,name.com,,,
-54be5f49-830b-445d-90cd-e3d16df5614e,plodder.foundation,available,7.48,37.98,medium,low,7,namecheap,,,10/09/2026 20:23
-a8987e8a-1b2e-442b-b41c-5968b976ca5e,venous.foundation,available,7.48,37.98,medium,low,6,namecheap,,,13/09/2026 02:10
-6dfbd2ab-493e-418a-9f72-f38cf8247ba3,witch.foundation,available,5.99,40.99,high,low,5,name.com,,,21/08/2026 07:44
-f5e11b65-f1fa-497d-bf3d-aaddc488a3f6,sensing.foundation,available,14.99,23.99,high,low,7,namesilo,,,29/09/2026 14:15
-b3fc4a97-0260-4ec2-b74b-20e3d70195c7,carnal.foundation,available,5.99,40.99,high,low,6,name.com,,,
-52bbe367-2337-4e2f-8dbf-9c7d9be07a1f,pomerania.foundation,available,14.99,23.99,medium,low,9,namesilo,,,29/09/2026 09:31
-3de14081-1bf7-493a-9024-698fd5046322,tentacular.foundation,available,7.48,37.98,medium,low,10,namecheap,,,11/09/2026 11:35
-19a31dc2-6be8-43a5-a7ad-c5d48ad8c099,colbert.foundation,available,11.99,23.01,medium,low,7,dynadot,,,27/09/2026 12:41
-d6d4bcd5-1bd9-4c66-86a6-8e224425c8c7,snuff.foundation,available,5.99,40.99,high,low,5,name.com,,,12/08/2026 07:39
-97a815e2-3dc5-47a2-9e69-2a2fea4a6560,plans.foundation,available,5.99,,high,low,5,name.com,,,
-4642ccee-19f8-45b9-bc4b-bcf7abecc9bf,constructive.foundation,available,5.99,,high,low,12,name.com,,,
-0afca1a2-d7fb-465a-9b69-5830b0c8dbb7,whiskers.foundation,available,7.48,37.98,high,low,8,namecheap,,,22/09/2026 21:02
-be947d98-67d6-4479-b5f5-3699bc29e91f,scooter.foundation,available,6.41,22.39,high,low,7,spaceship,,,30/09/2026 01:57
-88dc7a01-e675-4e35-b89d-39d716869086,montpellier.foundation,available,6.41,22.39,medium,low,11,spaceship,,,28/09/2026 21:53
-66ce8d9a-0306-4a21-b39c-1e68079ff24c,vindictive.foundation,available,5.99,40.99,medium,low,10,name.com,,,14/08/2026 04:21
-5f1d92a5-9c00-421e-a1b8-2f2e454cda06,cotton.foundation,available,6.41,22.39,high,low,6,spaceship,,,29/09/2026 11:45
-3acfb8c2-3985-46b5-8678-3da59c57d4a3,premier.foundation,available,7.48,37.98,high,low,7,namecheap,,,27/09/2026 04:55
-732a3164-43ad-445c-96d3-0e87e992f7d1,assiduous.foundation,available,5.99,40.99,medium,low,9,name.com,,,07/08/2026 06:09
-8806ce6b-d866-43eb-b9c8-15510f33fb07,slovenly.foundation,available,5.99,40.99,medium,low,8,name.com,,,18/08/2026 16:55
-46696782-74ac-4336-b510-c55a1b445e38,harquebus.foundation,available,14.99,23.99,medium,low,9,namesilo,,,20/09/2026 08:40
-cb5b1d1a-16ab-45d5-98c2-2f6e3595d872,titled.foundation,available,5.99,40.99,high,low,6,name.com,,,13/08/2026 01:50
-cabda467-dc48-42d6-9dc9-b469adcea962,sigmoid.foundation,available,5.99,40.99,high,medium,7,name.com,,,10/09/2026 07:58
-e86636e8-b128-437d-9181-5e7ecf0d2568,disappoint.foundation,available,6.41,22.39,medium,low,10,spaceship,,,29/09/2026 14:14
-9c038090-7348-4cd5-a179-2df069e5ffc2,annam.foundation,available,14.99,23.99,medium,low,5,namesilo,,,19/09/2026 10:09
-3214ef92-cde9-4403-8674-4881b63b963b,aural.foundation,available,14.99,23.99,high,low,5,namesilo,,,22/09/2026 12:49
-90c7ff21-6306-4eaa-9eab-c21bc3dd14e4,adansonia.foundation,available,14.99,23.99,medium,low,9,namesilo,,,17/09/2026 06:21
-c1cdf921-72ce-4768-b989-7106b3d0eaaa,goats.foundation,available,14.99,23.99,medium,low,5,namesilo,,,29/09/2026 04:56
-b073f0ad-87c9-4589-ba2c-857f3c028d8d,arizonian.foundation,available,14.99,23.99,medium,low,9,namesilo,,,20/09/2026 06:06
-81ec2056-1433-4049-873a-f786a89500b9,taft.foundation,available,6.41,22.39,high,low,4,spaceship,,,29/09/2026 07:29
-a8ec431a-1431-4a73-b31b-19ab27586fc3,warmly.foundation,available,7.48,37.98,high,low,6,namecheap,,,13/09/2026 08:17
-20311149-4011-4018-820b-8b9a40d602d3,screen.foundation,available,14.99,23.99,high,low,6,namesilo,,,28/09/2026 08:44
-26df9a04-b37e-4be4-b322-d3f49a4b39fb,stylish.foundation,available,14.99,23.99,high,low,7,namesilo,,,24/09/2026 17:15
-78cf2ee1-7600-4bed-a739-f24114bd9572,expert.foundation,premium,242,242,high,low,6,namesilo,,,28/09/2026 06:38
-4ceb346a-2b30-4c5a-ad2c-4bcc6ad149c9,bollock.foundation,available,14.99,23.99,medium,low,7,namesilo,,,21/09/2026 23:08
-da96abb4-821b-4451-bf35-c8b4efacbfa1,maleficent.foundation,available,5.99,40.99,medium,low,10,name.com,,,24/08/2026 13:58
-605f7dd2-23c0-4e97-99d7-7954c5456f9a,spacy.foundation,available,7.48,37.98,high,medium,5,namecheap,,,10/09/2026 15:05
-32197582-bff4-46af-b89a-108a6521223b,interlaced.foundation,available,5.99,40.99,medium,low,10,name.com,,,22/08/2026 08:04
-85e79b5f-f62f-4a4b-9d09-7a035fb6e580,shintoist.foundation,available,7.48,37.98,high,medium,9,namecheap,,,10/09/2026 06:33
-b1b2f358-2e01-4bd9-b72f-21a3f3e43476,films.foundation,available,7.48,37.98,medium,low,5,namecheap,,,25/09/2026 17:41
-27529f06-827f-43b8-b795-fad7e39ff480,enteric.foundation,available,5.99,40.99,medium,low,7,name.com,,,17/08/2026 09:53
