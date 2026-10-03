@@ -1,10 +1,10 @@
-# Available .FOUNDATION One-Word Domains (30,171)
+# Available .FOUNDATION One-Word Domains (32,338)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C171%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C338%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .foundation one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,171 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,338 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,171 domains · **Median ask:** $12.90 · **High-demand under $2,500:** 21
+**Public extract:** 1,000 rows · **Live catalog:** 32,338 domains · **Median ask:** $12.90 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/foundation`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | ana.foundation      | available | $5.99     | $22.66        | high           | low    | 3      | porkbun         |
-| jet.foundation      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
+| rag.foundation      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
 | cpr.foundation      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
 | bag.foundation      | available | $5.99     | —             | high           | low    | 3      | name.com        |
-| rag.foundation      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
-| end.foundation      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| bcs.foundation      | available | $6.41     | $22.39        | high           | low    | 3      | spaceship       |
 | snow.foundation     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
-| nsf.foundation      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| bea.foundation      | available | $6.41     | $22.39        | high           | low    | 3      | spaceship       |
+| end.foundation      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
+| bcc.foundation      | available | $14.99    | $23.99        | high           | low    | 3      | namesilo        |
 | betting.foundation  | resell    | —         | —             | high           | low    | 7      | Dynadot Inc     |
-| ocd.foundation      | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship       |
-| bed.foundation      | available | $14.99    | $23.99        | high           | low    | 3      | namesilo        |
+| nsf.foundation      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
+| bcs.foundation      | available | $6.41     | $22.39        | high           | low    | 3      | spaceship       |
 | telegram.foundation | resell    | —         | —             | high           | medium | 8      | —               |
-| ruhr.foundation     | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo        |
-| bnp.foundation      | available | $6.41     | $22.39        | high           | low    | 3      | spaceship       |
+| ocd.foundation      | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship       |
+| bea.foundation      | available | $6.41     | $22.39        | high           | low    | 3      | spaceship       |
 | timeless.foundation | resell    | —         | —             | high           | low    | 8      | Porkbun LLC     |
 | lopez.foundation    | premium   | $38.94    | $38.94        | high           | low    | 5      | namesilo        |
-| cbo.foundation      | available | $14.99    | $23.99        | high           | low    | 3      | namesilo        |
+| bed.foundation      | available | $14.99    | $23.99        | high           | low    | 3      | namesilo        |
 | author.foundation   | premium   | $38.94    | $38.94        | high           | low    | 6      | namesilo        |
+| bnp.foundation      | available | $6.41     | $22.39        | high           | low    | 3      | spaceship       |
+| banker.foundation   | premium   | $38.94    | $38.94        | high           | low    | 6      | namesilo        |
+| cbo.foundation      | available | $14.99    | $23.99        | high           | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,171 live domains                        |
+| 1,000-row public sample | 32,338 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 21 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOUNDATION One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOUNDATION One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
